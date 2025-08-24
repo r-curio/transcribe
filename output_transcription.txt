@@ -1,0 +1,23 @@
+Transcription of audio file
+Model: Khalsuu/filipino-wav2vec2-l-xls-r-300m-official
+Total utterances: 3
+==================================================
+
+Utterance 1:
+  Time: [00:00.040 - 00:02.940] (2.90s)
+  Confidence: 1.000
+  Words: 6
+  Text: nagbubungkala ko ng lupa at nagkakaingin
+
+Utterance 2:
+  Time: [00:04.160 - 00:08.120] (3.96s)
+  Confidence: 1.000
+  Words: 10
+  Text: nagaalaga ng maraming hayop at ang mga ito ay dumarami
+
+Utterance 3:
+  Time: [00:09.300 - 00:09.940] (0.64s)
+  Confidence: 1.000
+  Words: 1
+  Text: namumuhad
+
