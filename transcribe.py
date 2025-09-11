@@ -33,14 +33,14 @@ class AudioTranscriber:
             model_name: Hugging Face model identifier
         """
         self.model_name = model_name
-        self.device = "cuda" if torch.cuda.is_available() else "cpu"
+        self.device = "cpu"  # Force CPU usage
         print(f"Using device: {self.device}")
         
         # Initialize pipeline first (primary method for word timestamps)
         try:
             self.pipe = pipeline("automatic-speech-recognition", 
                                model=model_name, 
-                               device=0 if self.device == "cuda" else -1,
+                               device=-1,  # Force CPU usage
                                return_timestamps="word")
             print(f"Loaded pipeline: {model_name}")
         except Exception as e:

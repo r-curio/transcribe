@@ -1,7 +1,7 @@
 import re
 
-input_file = "84_xx10xxxx_15A_transcription.txt"
-recording_id = "84_xx10xxxx_15A"   # same as wav file name without extension
+input_file = "90_xx00xxxx_11B_transcription.txt"
+recording_id = "90_xx00xxxx_11B"   # same as wav file name without extension
 
 segments_out = open("segments", "w", encoding="utf-8")
 text_out = open("text", "w", encoding="utf-8")

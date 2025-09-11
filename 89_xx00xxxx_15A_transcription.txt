@@ -1,0 +1,7973 @@
+Transcription of audio file
+Model: Khalsuu/filipino-wav2vec2-l-xls-r-300m-official
+Total utterances: 1328
+==================================================
+
+Utterance 1:
+  Time: [00:03.760 - 00:05.380] (1.62s)
+  Confidence: 1.000
+  Words: 4
+  Text: ako ay isang magbubukid
+
+Utterance 2:
+  Time: [00:06.420 - 00:09.480] (3.06s)
+  Confidence: 1.000
+  Words: 6
+  Text: nagbubungkal ako ng lupa a nagkakaingin
+
+Utterance 3:
+  Time: [00:10.420 - 00:14.840] (4.42s)
+  Confidence: 1.000
+  Words: 10
+  Text: nagaalaga ng maraming hayop at ang mga ito ay dumaramin
+
+Utterance 4:
+  Time: [00:15.820 - 00:22.340] (6.52s)
+  Confidence: 1.000
+  Words: 11
+  Text: namumungadin ng madami ang aking magatanimsobra sobra ang biyaya sa amin
+
+Utterance 5:
+  Time: [00:23.400 - 00:27.140] (3.74s)
+  Confidence: 1.000
+  Words: 8
+  Text: hiningan nga ako ng malaking halaga nung manggagamot
+
+Utterance 6:
+  Time: [00:28.640 - 00:31.520] (2.88s)
+  Confidence: 1.000
+  Words: 6
+  Text: at dahil interesado ako nagbigay ako
+
+Utterance 7:
+  Time: [00:32.520 - 00:35.160] (2.64s)
+  Confidence: 1.000
+  Words: 7
+  Text: mat minsan ay tumatawagdin ako sakan nila
+
+Utterance 8:
+  Time: [00:36.220 - 00:40.880] (4.66s)
+  Confidence: 1.000
+  Words: 7
+  Text: wala namang nagiging bisamay nakausap nga ako
+
+Utterance 9:
+  Time: [00:41.820 - 00:47.180] (5.36s)
+  Confidence: 1.000
+  Words: 11
+  Text: ang sabi maghintay hintay daw ako at magkakabisa din daw iyon
+
+Utterance 10:
+  Time: [00:48.240 - 00:51.000] (2.76s)
+  Confidence: 1.000
+  Words: 6
+  Text: pero hanggang kaaylan pa ako magihintay
+
+Utterance 11:
+  Time: [00:52.260 - 00:55.880] (3.62s)
+  Confidence: 1.000
+  Words: 8
+  Text: sa isang malayong lugar sa amin ay maagang
+
+Utterance 12:
+  Time: [00:56.900 - 00:58.900] (2.00s)
+  Confidence: 1.000
+  Words: 3
+  Text: maagang nagising sinanita
+
+Utterance 13:
+  Time: [00:59.960 - 00:59.980] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: h
+
+Utterance 14:
+  Time: [01:00.000 - 01:09.600] (9.60s)
+  Confidence: 1.000
+  Words: 16
+  Text: sya ay mag pipitong taong gulang nampanglima siya sa sampong magkakapatid iisalamang ang kapatid niyang lalaki
+
+Utterance 15:
+  Time: [01:10.540 - 01:18.600] (8.06s)
+  Confidence: 1.000
+  Words: 15
+  Text: meron silang maliit nalupa na natataniman ng sari saring gulay mga puno mai at palay
+
+Utterance 16:
+  Time: [01:21.560 - 01:22.920] (1.36s)
+  Confidence: 1.000
+  Words: 4
+  Text: ano ang iyong maipapayo
+
+Utterance 17:
+  Time: [01:24.180 - 01:26.460] (2.28s)
+  Confidence: 1.000
+  Words: 6
+  Text: kailangan tapusin na natin ito diba
+
+Utterance 18:
+  Time: [01:27.680 - 01:28.760] (1.08s)
+  Confidence: 1.000
+  Words: 4
+  Text: kumusta na kaya siya
+
+Utterance 19:
+  Time: [01:29.800 - 01:31.760] (1.96s)
+  Confidence: 1.000
+  Words: 6
+  Text: paano kung ibaang dumating na ito
+
+Utterance 20:
+  Time: [01:32.900 - 01:35.980] (3.08s)
+  Confidence: 1.000
+  Words: 9
+  Text: bakit pati siya ay humihingi ng kapatawaran sa kanya
+
+Utterance 21:
+  Time: [01:37.200 - 01:38.040] (0.84s)
+  Confidence: 1.000
+  Words: 2
+  Text: magusap tayo
+
+Utterance 22:
+  Time: [01:39.100 - 01:39.960] (0.86s)
+  Confidence: 1.000
+  Words: 3
+  Text: kantahan mo kami
+
+Utterance 23:
+  Time: [01:41.020 - 01:42.280] (1.26s)
+  Confidence: 1.000
+  Words: 4
+  Text: dumalon ka sa gusali
+
+Utterance 24:
+  Time: [01:43.380 - 01:46.900] (3.52s)
+  Confidence: 1.000
+  Words: 7
+  Text: magkita naman tayo maayasundin mo naman ako
+
+Utterance 25:
+  Time: [01:48.000 - 01:48.540] (0.54s)
+  Confidence: 1.000
+  Words: 2
+  Text: bahala ka
+
+Utterance 26:
+  Time: [01:49.880 - 01:50.960] (1.08s)
+  Confidence: 1.000
+  Words: 2
+  Text: nakakasilaw naman
+
+Utterance 27:
+  Time: [01:52.460 - 01:55.200] (2.74s)
+  Confidence: 1.000
+  Words: 7
+  Text: ipaghele mo sijo ipaghele mo si joy
+
+Utterance 28:
+  Time: [01:56.360 - 01:57.600] (1.24s)
+  Confidence: 1.000
+  Words: 4
+  Text: sayaw tayo ng chatcha
+
+Utterance 29:
+  Time: [01:59.080 - 01:59.900] (0.82s)
+  Confidence: 1.000
+  Words: 2
+  Text: maagiw don
+
+Utterance 30:
+  Time: [02:01.460 - 02:02.760] (1.30s)
+  Confidence: 1.000
+  Words: 3
+  Text: baagaw don baka
+
+Utterance 31:
+  Time: [02:04.040 - 02:08.000] (3.96s)
+  Confidence: 1.000
+  Words: 6
+  Text: magaw doon baka patayo mauntoghoy bata
+
+Utterance 32:
+  Time: [02:09.200 - 02:11.260] (2.06s)
+  Confidence: 1.000
+  Words: 5
+  Text: nasa alementarea pa si janis
+
+Utterance 33:
+  Time: [02:12.140 - 02:16.220] (4.08s)
+  Confidence: 1.000
+  Words: 11
+  Text: ng pumunta sa frans ang amaat sa vaneswela ang ina nya
+
+Utterance 34:
+  Time: [02:19.160 - 02:19.620] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: pangulo
+
+Utterance 35:
+  Time: [02:21.940 - 02:25.400] (3.46s)
+  Confidence: 1.000
+  Words: 2
+  Text: magnanakaway pangulo
+
+Utterance 36:
+  Time: [02:26.240 - 02:27.900] (1.66s)
+  Confidence: 1.000
+  Words: 2
+  Text: pautos idikit
+
+Utterance 37:
+  Time: [02:28.720 - 02:29.420] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: magnanakaw
+
+Utterance 38:
+  Time: [02:30.600 - 02:32.120] (1.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: mapapakinabangang
+
+Utterance 39:
+  Time: [02:33.260 - 02:37.480] (4.22s)
+  Confidence: 1.000
+  Words: 2
+  Text: mahalanlungsod agiw
+
+Utterance 40:
+  Time: [02:38.360 - 02:40.860] (2.50s)
+  Confidence: 1.000
+  Words: 3
+  Text: pinaglalag yan kasalukuyang
+
+Utterance 41:
+  Time: [02:41.780 - 02:44.900] (3.12s)
+  Confidence: 1.000
+  Words: 3
+  Text: webes alisin aabutan
+
+Utterance 42:
+  Time: [02:45.740 - 02:46.220] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: magsaya
+
+Utterance 43:
+  Time: [02:47.060 - 02:51.960] (4.90s)
+  Confidence: 1.000
+  Words: 4
+  Text: ihatid hugis pebrero pinagpuputol
+
+Utterance 44:
+  Time: [02:53.620 - 02:56.500] (2.88s)
+  Confidence: 1.000
+  Words: 4
+  Text: agpalimos hating gabi ihayag
+
+Utterance 45:
+  Time: [02:58.000 - 02:58.300] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: paso
+
+Utterance 46:
+  Time: [03:00.000 - 03:06.260] (6.26s)
+  Confidence: 1.000
+  Words: 4
+  Text: akayin mahirapaalis magsikap pinagsabihan
+
+Utterance 47:
+  Time: [03:07.260 - 03:07.640] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: huling
+
+Utterance 48:
+  Time: [03:08.620 - 03:08.940] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: pera
+
+Utterance 49:
+  Time: [03:09.900 - 03:10.380] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: alukin
+
+Utterance 50:
+  Time: [03:11.380 - 03:12.200] (0.82s)
+  Confidence: 1.000
+  Words: 2
+  Text: mag pipitong
+
+Utterance 51:
+  Time: [03:13.180 - 03:17.120] (3.94s)
+  Confidence: 1.000
+  Words: 2
+  Text: aknakin iisa
+
+Utterance 52:
+  Time: [03:18.340 - 03:21.080] (2.74s)
+  Confidence: 1.000
+  Words: 3
+  Text: pasok sueming mahuli
+
+Utterance 53:
+  Time: [03:22.040 - 03:22.220] (0.18s)
+  Confidence: 1.000
+  Words: 1
+  Text: aba
+
+Utterance 54:
+  Time: [03:23.220 - 03:24.000] (0.78s)
+  Confidence: 1.000
+  Words: 1
+  Text: magtagumpay
+
+Utterance 55:
+  Time: [03:24.800 - 03:26.880] (2.08s)
+  Confidence: 1.000
+  Words: 2
+  Text: pinalawak magsabon
+
+Utterance 56:
+  Time: [03:27.780 - 03:28.100] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: pero
+
+Utterance 57:
+  Time: [03:29.020 - 03:30.900] (1.88s)
+  Confidence: 1.000
+  Words: 1
+  Text: amashoing
+
+Utterance 58:
+  Time: [03:31.720 - 03:32.140] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: aking
+
+Utterance 59:
+  Time: [03:33.100 - 03:34.900] (1.80s)
+  Confidence: 1.000
+  Words: 2
+  Text: ikalat ngayong
+
+Utterance 60:
+  Time: [03:35.820 - 03:36.540] (0.72s)
+  Confidence: 1.000
+  Words: 1
+  Text: ibagsak
+
+Utterance 61:
+  Time: [03:37.520 - 03:39.480] (1.96s)
+  Confidence: 1.000
+  Words: 2
+  Text: maybabalik patak
+
+Utterance 62:
+  Time: [03:40.340 - 03:40.880] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: magtaning
+
+Utterance 63:
+  Time: [03:41.880 - 03:42.740] (0.86s)
+  Confidence: 1.000
+  Words: 1
+  Text: pinanonood
+
+Utterance 64:
+  Time: [03:44.200 - 03:44.900] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: kumahataw
+
+Utterance 65:
+  Time: [03:45.720 - 03:46.140] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: petsa
+
+Utterance 66:
+  Time: [03:47.120 - 03:47.560] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: ikanta
+
+Utterance 67:
+  Time: [03:49.100 - 03:49.660] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: magsama
+
+Utterance 68:
+  Time: [03:50.540 - 03:50.720] (0.18s)
+  Confidence: 1.000
+  Words: 1
+  Text: ako
+
+Utterance 69:
+  Time: [03:51.640 - 03:52.080] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: maigay
+
+Utterance 70:
+  Time: [03:53.120 - 03:56.080] (2.96s)
+  Confidence: 1.000
+  Words: 3
+  Text: masyadong magtanong pinatakbo
+
+Utterance 71:
+  Time: [03:56.980 - 03:58.540] (1.56s)
+  Confidence: 1.000
+  Words: 2
+  Text: paay akong
+
+Utterance 72:
+  Time: [03:59.560 - 03:59.940] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: aming
+
+Utterance 73:
+  Time: [04:01.340 - 04:01.800] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: humanda
+
+Utterance 74:
+  Time: [04:03.020 - 04:03.340] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: ibang
+
+Utterance 75:
+  Time: [04:04.340 - 04:04.920] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: ikapitong
+
+Utterance 76:
+  Time: [04:06.160 - 04:09.340] (3.18s)
+  Confidence: 1.000
+  Words: 3
+  Text: magsanay magtulungan anak
+
+Utterance 77:
+  Time: [04:10.300 - 04:10.800] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: masamang
+
+Utterance 78:
+  Time: [04:11.700 - 04:13.460] (1.76s)
+  Confidence: 1.000
+  Words: 2
+  Text: aksayahin ikasa
+
+Utterance 79:
+  Time: [04:14.420 - 04:16.060] (1.64s)
+  Confidence: 1.000
+  Words: 2
+  Text: agad magulang
+
+Utterance 80:
+  Time: [04:16.880 - 04:17.640] (0.76s)
+  Confidence: 1.000
+  Words: 1
+  Text: mayntindihan
+
+Utterance 81:
+  Time: [04:18.500 - 04:18.980] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: humihingi
+
+Utterance 82:
+  Time: [04:19.800 - 04:21.180] (1.38s)
+  Confidence: 1.000
+  Words: 2
+  Text: pilat pinto
+
+Utterance 83:
+  Time: [04:22.160 - 04:22.920] (0.76s)
+  Confidence: 1.000
+  Words: 1
+  Text: pangalagaan
+
+Utterance 84:
+  Time: [04:23.740 - 04:24.460] (0.72s)
+  Confidence: 1.000
+  Words: 2
+  Text: senator yan
+
+Utterance 85:
+  Time: [04:25.320 - 04:25.520] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: ang
+
+Utterance 86:
+  Time: [04:26.420 - 04:27.120] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: agsanib
+
+Utterance 87:
+  Time: [04:27.980 - 04:28.600] (0.62s)
+  Confidence: 1.000
+  Words: 1
+  Text: aktibong
+
+Utterance 88:
+  Time: [04:29.540 - 04:30.420] (0.88s)
+  Confidence: 1.000
+  Words: 2
+  Text: may paliwanag
+
+Utterance 89:
+  Time: [04:31.520 - 04:31.940] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: patungo
+
+Utterance 90:
+  Time: [04:33.160 - 04:33.860] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: magusap
+
+Utterance 91:
+  Time: [04:34.680 - 04:35.240] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: pinura
+
+Utterance 92:
+  Time: [04:36.780 - 04:37.140] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: awing
+
+Utterance 93:
+  Time: [04:37.980 - 04:38.200] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: pili
+
+Utterance 94:
+  Time: [04:39.520 - 04:39.840] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: anim
+
+Utterance 95:
+  Time: [04:40.760 - 04:42.560] (1.80s)
+  Confidence: 1.000
+  Words: 2
+  Text: kawawang akyat
+
+Utterance 96:
+  Time: [04:43.420 - 04:44.020] (0.60s)
+  Confidence: 1.000
+  Words: 2
+  Text: may papayo
+
+Utterance 97:
+  Time: [04:44.900 - 04:48.000] (3.10s)
+  Confidence: 1.000
+  Words: 3
+  Text: agahan magutos anio
+
+Utterance 98:
+  Time: [04:48.880 - 04:49.200] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: hunyo
+
+Utterance 99:
+  Time: [04:50.000 - 04:50.600] (0.60s)
+  Confidence: 1.000
+  Words: 1
+  Text: alagaan
+
+Utterance 100:
+  Time: [04:51.460 - 04:51.820] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: ikaw
+
+Utterance 101:
+  Time: [04:52.660 - 04:53.140] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: nalawang
+
+Utterance 102:
+  Time: [04:54.160 - 04:55.860] (1.70s)
+  Confidence: 1.000
+  Words: 2
+  Text: ibigin mais
+
+Utterance 103:
+  Time: [04:56.800 - 04:57.420] (0.62s)
+  Confidence: 1.000
+  Words: 1
+  Text: magsasaka
+
+Utterance 104:
+  Time: [04:58.360 - 04:58.900] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: mahabang
+
+Utterance 105:
+  Time: [04:59.740 - 04:59.960] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: pera
+
+Utterance 106:
+  Time: [05:00.000 - 05:00.200] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: aso
+
+Utterance 107:
+  Time: [05:01.160 - 05:02.000] (0.84s)
+  Confidence: 1.000
+  Words: 2
+  Text: patong patong
+
+Utterance 108:
+  Time: [05:02.800 - 05:03.320] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: piliin
+
+Utterance 109:
+  Time: [05:04.240 - 05:04.420] (0.18s)
+  Confidence: 1.000
+  Words: 1
+  Text: ano
+
+Utterance 110:
+  Time: [05:05.560 - 05:05.960] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: agaw
+
+Utterance 111:
+  Time: [05:07.360 - 05:12.840] (5.48s)
+  Confidence: 1.000
+  Words: 3
+  Text: malalayan ilagay pusgahan
+
+Utterance 112:
+  Time: [05:13.920 - 05:15.780] (1.86s)
+  Confidence: 1.000
+  Words: 2
+  Text: idiin maytatanggi
+
+Utterance 113:
+  Time: [05:16.800 - 05:17.300] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: magsawa
+
+Utterance 114:
+  Time: [05:18.180 - 05:18.960] (0.78s)
+  Confidence: 1.000
+  Words: 1
+  Text: spoksman
+
+Utterance 115:
+  Time: [05:20.000 - 05:20.600] (0.60s)
+  Confidence: 1.000
+  Words: 1
+  Text: pirasong
+
+Utterance 116:
+  Time: [05:21.520 - 05:22.060] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: agawin
+
+Utterance 117:
+  Time: [05:22.880 - 05:23.580] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: tatanggapin
+
+Utterance 118:
+  Time: [05:24.480 - 05:24.940] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: antay
+
+Utterance 119:
+  Time: [05:25.840 - 05:26.220] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: huwag
+
+Utterance 120:
+  Time: [05:27.160 - 05:27.560] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: mahal
+
+Utterance 121:
+  Time: [05:28.480 - 05:29.080] (0.60s)
+  Confidence: 1.000
+  Words: 1
+  Text: ilalagay
+
+Utterance 122:
+  Time: [05:29.880 - 05:32.060] (2.18s)
+  Confidence: 1.000
+  Words: 3
+  Text: kinauuko lang pinagiba
+
+Utterance 123:
+  Time: [05:33.500 - 05:38.140] (4.64s)
+  Confidence: 1.000
+  Words: 4
+  Text: makaabo makaabotmag sawalang kibo
+
+Utterance 124:
+  Time: [05:39.140 - 05:39.440] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: alam
+
+Utterance 125:
+  Time: [05:40.280 - 05:40.600] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: pirma
+
+Utterance 126:
+  Time: [05:41.580 - 05:43.360] (1.78s)
+  Confidence: 1.000
+  Words: 2
+  Text: antayin makadama
+
+Utterance 127:
+  Time: [05:51.060 - 05:51.340] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: pisa
+
+Utterance 128:
+  Time: [05:52.480 - 05:52.860] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: antok
+
+Utterance 129:
+  Time: [05:53.780 - 05:54.620] (0.84s)
+  Confidence: 1.000
+  Words: 2
+  Text: ngang aulugan
+
+Utterance 130:
+  Time: [05:55.480 - 05:57.380] (1.90s)
+  Confidence: 1.000
+  Words: 2
+  Text: makakalimot pisain
+
+Utterance 131:
+  Time: [05:58.260 - 05:58.740] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: antokin
+
+Utterance 132:
+  Time: [06:00.060 - 06:00.400] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: ilang
+
+Utterance 133:
+  Time: [06:01.540 - 06:02.420] (0.88s)
+  Confidence: 1.000
+  Words: 1
+  Text: makakatapos
+
+Utterance 134:
+  Time: [06:03.260 - 06:03.620] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: pisnge
+
+Utterance 135:
+  Time: [06:04.500 - 06:04.980] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: anomang
+
+Utterance 136:
+  Time: [06:05.880 - 06:06.440] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: makakuha
+
+Utterance 137:
+  Time: [06:07.400 - 06:07.700] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: piso
+
+Utterance 138:
+  Time: [06:08.960 - 06:09.420] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: anyos
+
+Utterance 139:
+  Time: [06:10.840 - 06:11.640] (0.80s)
+  Confidence: 1.000
+  Words: 1
+  Text: makapagkala
+
+Utterance 140:
+  Time: [06:12.700 - 06:13.420] (0.72s)
+  Confidence: 1.000
+  Words: 1
+  Text: akapagkalat
+
+Utterance 141:
+  Time: [06:14.300 - 06:14.680] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: apat
+
+Utterance 142:
+  Time: [06:15.580 - 06:19.180] (3.60s)
+  Confidence: 1.000
+  Words: 2
+  Text: ilibingmakapag makapagsasabing
+
+Utterance 143:
+  Time: [06:20.120 - 06:20.180] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: po
+
+Utterance 144:
+  Time: [06:21.680 - 06:22.020] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: ilito
+
+Utterance 145:
+  Time: [06:22.880 - 06:23.380] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: makapal
+
+Utterance 146:
+  Time: [06:24.420 - 06:24.900] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: posporo
+
+Utterance 147:
+  Time: [06:25.780 - 06:26.320] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: malitang
+
+Utterance 148:
+  Time: [06:27.240 - 06:27.480] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: yong
+
+Utterance 149:
+  Time: [06:28.420 - 06:28.760] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: apoy
+
+Utterance 150:
+  Time: [06:29.720 - 06:30.300] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: makarating
+
+Utterance 151:
+  Time: [06:31.300 - 06:31.680] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: premyo
+
+Utterance 152:
+  Time: [06:32.640 - 06:32.980] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: ilong
+
+Utterance 153:
+  Time: [06:33.820 - 06:34.360] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: makasali
+
+Utterance 154:
+  Time: [06:35.320 - 06:37.100] (1.78s)
+  Confidence: 1.000
+  Words: 3
+  Text: probin siya makata
+
+Utterance 155:
+  Time: [06:38.100 - 06:42.600] (4.50s)
+  Confidence: 1.000
+  Words: 4
+  Text: araw imposibleng makatulog aray
+
+Utterance 156:
+  Time: [06:43.460 - 06:43.660] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: ina
+
+Utterance 157:
+  Time: [06:45.940 - 06:50.660] (4.72s)
+  Confidence: 1.000
+  Words: 4
+  Text: makiangkas pumasok asa inaasahan
+
+Utterance 158:
+  Time: [06:51.500 - 06:52.080] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: makikita
+
+Utterance 159:
+  Time: [06:52.980 - 06:54.580] (1.60s)
+  Confidence: 1.000
+  Words: 2
+  Text: asahan inay
+
+Utterance 160:
+  Time: [06:55.480 - 06:57.040] (1.56s)
+  Confidence: 1.000
+  Words: 2
+  Text: makita pumunta
+
+Utterance 161:
+  Time: [06:57.860 - 06:58.300] (0.44s)
+  Confidence: 1.000
+  Words: 2
+  Text: asa rin
+
+Utterance 162:
+  Time: [06:59.220 - 06:59.580] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: ingay
+
+Utterance 163:
+  Time: [07:00.900 - 07:01.440] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: makitit
+
+Utterance 164:
+  Time: [07:02.340 - 07:04.480] (2.14s)
+  Confidence: 1.000
+  Words: 2
+  Text: punas regulations
+
+Utterance 165:
+  Time: [07:05.320 - 07:07.120] (1.80s)
+  Confidence: 1.000
+  Words: 2
+  Text: asawa ininyero
+
+Utterance 166:
+  Time: [07:08.000 - 07:08.400] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: makuha
+
+Utterance 167:
+  Time: [07:09.400 - 07:09.780] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: punog
+
+Utterance 168:
+  Time: [07:10.660 - 07:10.940] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: aso
+
+Utterance 169:
+  Time: [07:12.080 - 07:12.500] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: punong
+
+Utterance 170:
+  Time: [07:13.480 - 07:15.160] (1.68s)
+  Confidence: 1.000
+  Words: 2
+  Text: at ininsulto
+
+Utterance 171:
+  Time: [07:16.020 - 07:16.360] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: punta
+
+Utterance 172:
+  Time: [07:17.480 - 07:21.860] (4.38s)
+  Confidence: 1.000
+  Words: 3
+  Text: atin inis puntahanugosto
+
+Utterance 173:
+  Time: [07:22.860 - 07:23.300] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: inisin
+
+Utterance 174:
+  Time: [07:24.300 - 07:24.800] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: malaking
+
+Utterance 175:
+  Time: [07:25.820 - 07:26.300] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: pupunta
+
+Utterance 176:
+  Time: [07:27.240 - 07:27.620] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: awang
+
+Utterance 177:
+  Time: [07:28.620 - 07:29.160] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: iniwan
+
+Utterance 178:
+  Time: [07:30.160 - 07:30.600] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: malalaki
+
+Utterance 179:
+  Time: [07:31.780 - 07:32.080] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: pusa
+
+Utterance 180:
+  Time: [07:33.000 - 07:33.380] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: away
+
+Utterance 181:
+  Time: [07:35.580 - 07:36.100] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: insulto
+
+Utterance 182:
+  Time: [07:37.360 - 07:37.900] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: record
+
+Utterance 183:
+  Time: [07:39.060 - 07:39.540] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: pusang
+
+Utterance 184:
+  Time: [07:40.560 - 07:41.020] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: awayan
+
+Utterance 185:
+  Time: [07:42.180 - 07:42.900] (0.72s)
+  Confidence: 1.000
+  Words: 1
+  Text: interesado
+
+Utterance 186:
+  Time: [07:45.580 - 07:47.640] (2.06s)
+  Confidence: 1.000
+  Words: 2
+  Text: rcommendation krimeng
+
+Utterance 187:
+  Time: [07:48.480 - 07:48.940] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: malamang
+
+Utterance 188:
+  Time: [07:49.880 - 07:50.180] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: puso
+
+Utterance 189:
+  Time: [07:52.700 - 07:54.500] (1.80s)
+  Confidence: 1.000
+  Words: 2
+  Text: awayin intindihin
+
+Utterance 190:
+  Time: [07:55.340 - 07:55.740] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: pwede
+
+Utterance 191:
+  Time: [07:56.780 - 07:56.920] (0.14s)
+  Confidence: 1.000
+  Words: 1
+  Text: ay
+
+Utterance 192:
+  Time: [07:58.020 - 07:58.540] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: inurong
+
+Utterance 193:
+  Time: [07:59.460 - 07:59.980] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: pwedeng
+
+Utterance 194:
+  Time: [08:00.000 - 08:02.180] (2.18s)
+  Confidence: 1.000
+  Words: 2
+  Text: ngayoko inyo
+
+Utterance 195:
+  Time: [08:03.120 - 08:03.520] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: raddso
+
+Utterance 196:
+  Time: [08:04.400 - 08:05.940] (1.54s)
+  Confidence: 1.000
+  Words: 2
+  Text: ayos inyong
+
+Utterance 197:
+  Time: [08:06.760 - 08:08.400] (1.64s)
+  Confidence: 1.000
+  Words: 2
+  Text: malawak raketa
+
+Utterance 198:
+  Time: [08:13.200 - 08:20.840] (7.64s)
+  Confidence: 1.000
+  Words: 8
+  Text: ayusin ipabawas rayoma ba ipag patuloy reaksyon aba
+
+Utterance 199:
+  Time: [08:21.900 - 08:22.560] (0.66s)
+  Confidence: 1.000
+  Words: 1
+  Text: ipagtimpla
+
+Utterance 200:
+  Time: [08:23.860 - 08:26.860] (3.00s)
+  Confidence: 1.000
+  Words: 3
+  Text: siwang ganitong malayong
+
+Utterance 201:
+  Time: [08:27.700 - 08:28.200] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: babaan
+
+Utterance 202:
+  Time: [08:29.260 - 08:32.340] (3.08s)
+  Confidence: 1.000
+  Words: 3
+  Text: babaan ipainon rebulto
+
+Utterance 203:
+  Time: [08:33.160 - 08:33.520] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: bababa
+
+Utterance 204:
+  Time: [08:34.400 - 08:36.100] (1.70s)
+  Confidence: 1.000
+  Words: 2
+  Text: maligayang babae
+
+Utterance 205:
+  Time: [08:37.040 - 08:37.420] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: ipasa
+
+Utterance 206:
+  Time: [08:38.440 - 08:41.520] (3.08s)
+  Confidence: 1.000
+  Words: 3
+  Text: babalik ipinatutupand lasyon
+
+Utterance 207:
+  Time: [08:42.460 - 08:43.880] (1.42s)
+  Confidence: 1.000
+  Words: 2
+  Text: bagay maliksi
+
+Utterance 208:
+  Time: [08:45.020 - 08:46.260] (1.24s)
+  Confidence: 1.000
+  Words: 2
+  Text: bago isa
+
+Utterance 209:
+  Time: [08:47.160 - 08:48.640] (1.48s)
+  Confidence: 1.000
+  Words: 2
+  Text: malrinaw rin
+
+Utterance 210:
+  Time: [08:49.660 - 08:51.180] (1.52s)
+  Confidence: 1.000
+  Words: 2
+  Text: bagong isahan
+
+Utterance 211:
+  Time: [08:52.020 - 08:52.680] (0.66s)
+  Confidence: 1.000
+  Words: 1
+  Text: maliwanand
+
+Utterance 212:
+  Time: [08:53.480 - 08:53.720] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: ring
+
+Utterance 213:
+  Time: [08:54.600 - 08:54.940] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: bagsa
+
+Utterance 214:
+  Time: [08:55.980 - 08:58.080] (2.10s)
+  Confidence: 1.000
+  Words: 2
+  Text: isaisip maliwanagan
+
+Utterance 215:
+  Time: [08:58.960 - 08:59.260] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: rito
+
+Utterance 216:
+  Time: [09:00.180 - 09:00.840] (0.66s)
+  Confidence: 1.000
+  Words: 1
+  Text: bagsakan
+
+Utterance 217:
+  Time: [09:01.840 - 09:02.220] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: isang
+
+Utterance 218:
+  Time: [09:03.080 - 09:03.680] (0.60s)
+  Confidence: 1.000
+  Words: 1
+  Text: malungkot
+
+Utterance 219:
+  Time: [09:04.580 - 09:04.940] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: roon
+
+Utterance 220:
+  Time: [09:05.960 - 09:07.480] (1.52s)
+  Confidence: 1.000
+  Words: 2
+  Text: bagsaki bagsakin
+
+Utterance 221:
+  Time: [09:09.180 - 09:09.660] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: mangyari
+
+Utterance 222:
+  Time: [09:10.640 - 09:13.420] (2.78s)
+  Confidence: 1.000
+  Words: 3
+  Text: tasong pautang isara
+
+Utterance 223:
+  Time: [09:14.560 - 09:14.820] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: mama
+
+Utterance 224:
+  Time: [09:15.820 - 09:18.560] (2.74s)
+  Confidence: 1.000
+  Words: 1
+  Text: sah
+
+Utterance 225:
+  Time: [09:21.640 - 09:21.920] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: bagyo
+
+Utterance 226:
+  Time: [09:22.980 - 09:23.200] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: isda
+
+Utterance 227:
+  Time: [09:24.660 - 09:25.320] (0.66s)
+  Confidence: 1.000
+  Words: 1
+  Text: mamamayan
+
+Utterance 228:
+  Time: [09:26.860 - 09:27.220] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: saan
+
+Utterance 229:
+  Time: [09:28.040 - 09:28.240] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: baha
+
+Utterance 230:
+  Time: [09:29.880 - 09:33.200] (3.32s)
+  Confidence: 1.000
+  Words: 3
+  Text: asang panunongkulan isigaw
+
+Utterance 231:
+  Time: [09:34.120 - 09:38.400] (4.28s)
+  Confidence: 1.000
+  Words: 6
+  Text: mamaya saan man bahala nagusa syong
+
+Utterance 232:
+  Time: [09:39.240 - 09:39.580] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: linggo
+
+Utterance 233:
+  Time: [09:40.660 - 09:41.200] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: isilang
+
+Utterance 234:
+  Time: [09:42.080 - 09:42.480] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: sabado
+
+Utterance 235:
+  Time: [09:43.460 - 09:43.840] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: bahay
+
+Utterance 236:
+  Time: [09:44.940 - 09:45.340] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: isip
+
+Utterance 237:
+  Time: [09:46.240 - 09:46.460] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: man
+
+Utterance 238:
+  Time: [09:47.380 - 09:47.760] (0.38s)
+  Confidence: 1.000
+  Words: 2
+  Text: sa bay
+
+Utterance 239:
+  Time: [09:48.880 - 09:49.160] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: baka
+
+Utterance 240:
+  Time: [09:50.180 - 09:50.480] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: mana
+
+Utterance 241:
+  Time: [09:51.360 - 09:51.880] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: sabayan
+
+Utterance 242:
+  Time: [09:52.940 - 09:53.420] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: bakip
+
+Utterance 243:
+  Time: [09:54.220 - 09:54.720] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: isipin
+
+Utterance 244:
+  Time: [09:55.700 - 09:56.380] (0.68s)
+  Confidence: 1.000
+  Words: 1
+  Text: manalangin
+
+Utterance 245:
+  Time: [09:57.260 - 09:57.560] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: sabi
+
+Utterance 246:
+  Time: [09:58.520 - 09:58.820] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: bakla
+
+Utterance 247:
+  Time: [09:59.840 - 09:59.980] (0.14s)
+  Confidence: 1.000
+  Words: 1
+  Text: ita
+
+Utterance 248:
+  Time: [10:00.000 - 10:00.380] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: aas
+
+Utterance 249:
+  Time: [10:01.220 - 10:01.740] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: sabihan
+
+Utterance 250:
+  Time: [10:02.780 - 10:03.200] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: balang
+
+Utterance 251:
+  Time: [10:04.080 - 10:04.400] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: shobiy
+
+Utterance 252:
+  Time: [10:05.560 - 10:05.800] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: bang
+
+Utterance 253:
+  Time: [10:06.900 - 10:07.320] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: bagong
+
+Utterance 254:
+  Time: [10:08.260 - 10:08.840] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: matanggap
+
+Utterance 255:
+  Time: [10:09.800 - 10:10.240] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: malaking
+
+Utterance 256:
+  Time: [10:11.280 - 10:11.920] (0.64s)
+  Confidence: 1.000
+  Words: 1
+  Text: itinatali
+
+Utterance 257:
+  Time: [10:12.900 - 10:13.440] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: angahoy
+
+Utterance 258:
+  Time: [10:14.260 - 10:14.780] (0.52s)
+  Confidence: 1.000
+  Words: 2
+  Text: sa bungan
+
+Utterance 259:
+  Time: [10:15.700 - 10:16.040] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: bansa
+
+Utterance 260:
+  Time: [10:17.080 - 10:17.720] (0.64s)
+  Confidence: 1.000
+  Words: 1
+  Text: itinuring
+
+Utterance 261:
+  Time: [10:18.620 - 10:19.180] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: manganib
+
+Utterance 262:
+  Time: [10:20.060 - 10:20.560] (0.50s)
+  Confidence: 1.000
+  Words: 2
+  Text: sa gleat
+
+Utterance 263:
+  Time: [10:21.480 - 10:21.940] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: bantay
+
+Utterance 264:
+  Time: [10:22.900 - 10:23.400] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: mangasar
+
+Utterance 265:
+  Time: [10:24.400 - 10:24.740] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: ingay
+
+Utterance 266:
+  Time: [10:25.660 - 10:26.160] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: baranggay
+
+Utterance 267:
+  Time: [10:28.020 - 10:28.840] (0.82s)
+  Confidence: 1.000
+  Words: 1
+  Text: makiangkas
+
+Utterance 268:
+  Time: [10:29.860 - 10:31.640] (1.78s)
+  Confidence: 1.000
+  Words: 3
+  Text: sahod labing siyan
+
+Utterance 269:
+  Time: [10:32.660 - 10:33.100] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: jaming
+
+Utterance 270:
+  Time: [10:34.020 - 10:34.360] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: among
+
+Utterance 271:
+  Time: [10:35.320 - 10:35.860] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: bantayan
+
+Utterance 272:
+  Time: [10:36.900 - 10:37.100] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: ito
+
+Utterance 273:
+  Time: [10:38.360 - 10:38.980] (0.62s)
+  Confidence: 1.000
+  Words: 1
+  Text: mangaway
+
+Utterance 274:
+  Time: [10:39.940 - 10:40.180] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: saka
+
+Utterance 275:
+  Time: [10:41.240 - 10:41.760] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: baranggay
+
+Utterance 276:
+  Time: [10:42.940 - 10:44.500] (1.56s)
+  Confidence: 1.000
+  Words: 2
+  Text: siapping itong
+
+Utterance 277:
+  Time: [10:45.520 - 10:46.240] (0.72s)
+  Confidence: 1.000
+  Words: 1
+  Text: manggagamot
+
+Utterance 278:
+  Time: [10:47.400 - 10:48.800] (1.40s)
+  Confidence: 1.000
+  Words: 2
+  Text: manggag manggagamot
+
+Utterance 279:
+  Time: [10:50.120 - 10:50.440] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: basa
+
+Utterance 280:
+  Time: [10:51.400 - 10:51.900] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: iurong
+
+Utterance 281:
+  Time: [10:52.980 - 10:53.400] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: manggulo
+
+Utterance 282:
+  Time: [10:54.600 - 10:55.000] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: sakto
+
+Utterance 283:
+  Time: [10:56.020 - 10:56.240] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: basa
+
+Utterance 284:
+  Time: [10:57.260 - 10:59.140] (1.88s)
+  Confidence: 1.000
+  Words: 3
+  Text: iusog manging sda
+
+Utterance 285:
+  Time: [11:00.200 - 11:00.540] (0.34s)
+  Confidence: 1.000
+  Words: 2
+  Text: sako na
+
+Utterance 286:
+  Time: [11:01.660 - 11:02.200] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: basahin
+
+Utterance 287:
+  Time: [11:03.440 - 11:04.260] (0.82s)
+  Confidence: 1.000
+  Words: 1
+  Text: namamayapang
+
+Utterance 288:
+  Time: [11:05.240 - 11:05.780] (0.54s)
+  Confidence: 1.000
+  Words: 2
+  Text: ang kas
+
+Utterance 289:
+  Time: [11:06.940 - 11:11.500] (4.56s)
+  Confidence: 1.000
+  Words: 2
+  Text: nmatoryosong iuimanlinlang
+
+Utterance 290:
+  Time: [11:12.480 - 11:13.020] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: salamat
+
+Utterance 291:
+  Time: [11:14.020 - 11:14.340] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: baso
+
+Utterance 292:
+  Time: [11:15.420 - 11:15.820] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: iwan
+
+Utterance 293:
+  Time: [11:16.700 - 11:17.060] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: manok
+
+Utterance 294:
+  Time: [11:18.460 - 11:20.140] (1.68s)
+  Confidence: 1.000
+  Words: 2
+  Text: basong iwanan
+
+Utterance 295:
+  Time: [11:21.060 - 11:21.480] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: manuod
+
+Utterance 296:
+  Time: [11:22.440 - 11:24.520] (2.08s)
+  Confidence: 1.000
+  Words: 3
+  Text: succes ful basura
+
+Utterance 297:
+  Time: [11:25.500 - 11:25.980] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: iwas
+
+Utterance 298:
+  Time: [11:26.800 - 11:27.820] (1.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: mapaliwanagan
+
+Utterance 299:
+  Time: [11:28.660 - 11:29.280] (0.62s)
+  Confidence: 1.000
+  Words: 1
+  Text: basurahan
+
+Utterance 300:
+  Time: [11:30.340 - 11:32.800] (2.46s)
+  Confidence: 1.000
+  Words: 2
+  Text: iwasan mapapakinabangan
+
+Utterance 301:
+  Time: [11:33.620 - 11:34.100] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: samahan
+
+Utterance 302:
+  Time: [11:35.420 - 11:35.940] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: samahan
+
+Utterance 303:
+  Time: [11:36.920 - 11:37.220] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: bata
+
+Utterance 304:
+  Time: [11:38.480 - 11:38.780] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: yak
+
+Utterance 305:
+  Time: [11:39.760 - 11:40.400] (0.64s)
+  Confidence: 1.000
+  Words: 1
+  Text: sandwich
+
+Utterance 306:
+  Time: [11:41.480 - 11:42.260] (0.78s)
+  Confidence: 1.000
+  Words: 1
+  Text: mapapatingin
+
+Utterance 307:
+  Time: [11:45.520 - 11:47.000] (1.48s)
+  Confidence: 1.000
+  Words: 2
+  Text: batang iyan
+
+Utterance 308:
+  Time: [11:47.840 - 11:49.440] (1.60s)
+  Confidence: 1.000
+  Words: 2
+  Text: marami batiin
+
+Utterance 309:
+  Time: [11:50.440 - 11:50.660] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: iyo
+
+Utterance 310:
+  Time: [11:51.500 - 11:52.060] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: maramin
+
+Utterance 311:
+  Time: [11:53.020 - 11:54.920] (1.90s)
+  Confidence: 1.000
+  Words: 1
+  Text: sambayananbato
+
+Utterance 312:
+  Time: [11:56.160 - 11:58.300] (2.14s)
+  Confidence: 1.000
+  Words: 1
+  Text: yonsampo
+
+Utterance 313:
+  Time: [11:59.380 - 11:59.840] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: batuhin
+
+Utterance 314:
+  Time: [12:00.860 - 12:01.180] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: iyong
+
+Utterance 315:
+  Time: [12:02.220 - 12:02.560] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: marso
+
+Utterance 316:
+  Time: [12:03.560 - 12:04.100] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: sampong
+
+Utterance 317:
+  Time: [12:04.960 - 12:05.500] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: bawas
+
+Utterance 318:
+  Time: [12:06.460 - 12:07.020] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: magtanong
+
+Utterance 319:
+  Time: [12:07.820 - 12:08.120] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: iyong
+
+Utterance 320:
+  Time: [12:08.960 - 12:09.600] (0.64s)
+  Confidence: 1.000
+  Words: 1
+  Text: martes
+
+Utterance 321:
+  Time: [12:10.640 - 12:10.920] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: sana
+
+Utterance 322:
+  Time: [12:11.740 - 12:14.700] (2.96s)
+  Confidence: 1.000
+  Words: 3
+  Text: bawasan jaket marshal
+
+Utterance 323:
+  Time: [12:15.540 - 12:16.000] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: sandal
+
+Utterance 324:
+  Time: [12:16.920 - 12:19.700] (2.78s)
+  Confidence: 1.000
+  Words: 2
+  Text: bawasinja alosi
+
+Utterance 325:
+  Time: [12:21.060 - 12:21.380] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: mas
+
+Utterance 326:
+  Time: [12:23.340 - 12:26.140] (2.80s)
+  Confidence: 1.000
+  Words: 3
+  Text: sabject resqe sandalan
+
+Utterance 327:
+  Time: [12:27.420 - 12:29.240] (1.82s)
+  Confidence: 1.000
+  Words: 2
+  Text: sandanan bawat
+
+Utterance 328:
+  Time: [12:30.100 - 12:30.520] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: anitor
+
+Utterance 329:
+  Time: [12:31.460 - 12:32.040] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: masagana
+
+Utterance 330:
+  Time: [12:32.840 - 12:33.180] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: sandali
+
+Utterance 331:
+  Time: [12:34.220 - 12:35.220] (1.00s)
+  Confidence: 1.000
+  Words: 2
+  Text: baya bayaan
+
+Utterance 332:
+  Time: [12:36.220 - 12:36.580] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: sapan
+
+Utterance 333:
+  Time: [12:37.760 - 12:39.740] (1.98s)
+  Confidence: 1.000
+  Words: 2
+  Text: masaganang sapagkat
+
+Utterance 334:
+  Time: [12:41.060 - 12:41.440] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: bayand
+
+Utterance 335:
+  Time: [12:42.400 - 12:42.920] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: jeneral
+
+Utterance 336:
+  Time: [12:43.840 - 12:44.280] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: masahe
+
+Utterance 337:
+  Time: [12:45.740 - 12:46.400] (0.66s)
+  Confidence: 1.000
+  Words: 1
+  Text: sapakan
+
+Utterance 338:
+  Time: [12:47.420 - 12:47.820] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: bayan
+
+Utterance 339:
+  Time: [12:48.980 - 12:49.240] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: jet
+
+Utterance 340:
+  Time: [12:50.140 - 12:50.640] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: masakit
+
+Utterance 341:
+  Time: [12:51.640 - 12:51.840] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: sara
+
+Utterance 342:
+  Time: [12:53.000 - 12:53.360] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: benta
+
+Utterance 343:
+  Time: [12:54.620 - 12:55.140] (0.52s)
+  Confidence: 1.000
+  Words: 2
+  Text: jo jitsu
+
+Utterance 344:
+  Time: [12:56.080 - 12:56.620] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: masaklap
+
+Utterance 345:
+  Time: [12:57.720 - 12:58.820] (1.10s)
+  Confidence: 1.000
+  Words: 2
+  Text: saraha sarahan
+
+Utterance 346:
+  Time: [13:00.100 - 13:00.560] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: birthdey
+
+Utterance 347:
+  Time: [13:01.560 - 13:02.220] (0.66s)
+  Confidence: 1.000
+  Words: 1
+  Text: jukbuks
+
+Utterance 348:
+  Time: [13:03.080 - 13:05.200] (2.12s)
+  Confidence: 1.000
+  Words: 1
+  Text: masamasarap
+
+Utterance 349:
+  Time: [13:06.160 - 13:06.560] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: bibig
+
+Utterance 350:
+  Time: [13:07.740 - 13:10.020] (2.28s)
+  Confidence: 1.000
+  Words: 2
+  Text: makapagsasabing makarating
+
+Utterance 351:
+  Time: [13:11.000 - 13:13.260] (2.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: maingaygawang
+
+Utterance 352:
+  Time: [13:14.600 - 13:14.800] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: lang
+
+Utterance 353:
+  Time: [13:15.860 - 13:16.280] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: junor
+
+Utterance 354:
+  Time: [13:17.260 - 13:17.820] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: masamain
+
+Utterance 355:
+  Time: [13:18.940 - 13:19.360] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: bigas
+
+Utterance 356:
+  Time: [13:20.440 - 13:20.520] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ka
+
+Utterance 357:
+  Time: [13:21.760 - 13:22.220] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: masamang
+
+Utterance 358:
+  Time: [13:23.240 - 13:25.400] (2.16s)
+  Confidence: 1.000
+  Words: 3
+  Text: sime finals sarilin
+
+Utterance 359:
+  Time: [13:26.340 - 13:26.660] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: bigay
+
+Utterance 360:
+  Time: [13:27.700 - 13:28.340] (0.64s)
+  Confidence: 1.000
+  Words: 1
+  Text: kaarawan
+
+Utterance 361:
+  Time: [13:29.280 - 13:29.760] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: masarap
+
+Utterance 362:
+  Time: [13:30.760 - 13:31.460] (0.70s)
+  Confidence: 1.000
+  Words: 2
+  Text: sari sating
+
+Utterance 363:
+  Time: [13:32.340 - 13:32.680] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: bigla
+
+Utterance 364:
+  Time: [13:33.880 - 13:34.360] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: aaway
+
+Utterance 365:
+  Time: [13:35.200 - 13:35.620] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: masaya
+
+Utterance 366:
+  Time: [13:36.600 - 13:37.320] (0.72s)
+  Confidence: 1.000
+  Words: 1
+  Text: sasamahan
+
+Utterance 367:
+  Time: [13:38.260 - 13:38.720] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: biglang
+
+Utterance 368:
+  Time: [13:39.760 - 13:40.400] (0.64s)
+  Confidence: 1.000
+  Words: 1
+  Text: kabalikat
+
+Utterance 369:
+  Time: [13:41.200 - 13:41.680] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: masigla
+
+Utterance 370:
+  Time: [13:42.860 - 13:43.100] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: sawa
+
+Utterance 371:
+  Time: [13:44.560 - 13:44.820] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: bigo
+
+Utterance 372:
+  Time: [13:46.100 - 13:46.700] (0.60s)
+  Confidence: 1.000
+  Words: 1
+  Text: kabalyero
+
+Utterance 373:
+  Time: [13:47.760 - 13:48.180] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: masira
+
+Utterance 374:
+  Time: [13:49.300 - 13:49.540] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: saya
+
+Utterance 375:
+  Time: [13:50.680 - 13:51.180] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: biguin
+
+Utterance 376:
+  Time: [13:52.200 - 13:52.660] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: kabayo
+
+Utterance 377:
+  Time: [13:53.640 - 13:54.560] (0.92s)
+  Confidence: 1.000
+  Words: 1
+  Text: masisigurado
+
+Utterance 378:
+  Time: [13:55.480 - 13:55.960] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: sigundo
+
+Utterance 379:
+  Time: [13:57.020 - 13:57.440] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: igyan
+
+Utterance 380:
+  Time: [13:58.320 - 13:59.980] (1.66s)
+  Confidence: 1.000
+  Words: 2
+  Text: kabuhayan masi
+
+Utterance 381:
+  Time: [14:00.000 - 14:00.500] (0.50s)
+  Confidence: 1.000
+  Words: 2
+  Text: i siguro
+
+Utterance 382:
+  Time: [14:01.880 - 14:02.360] (0.48s)
+  Confidence: 1.000
+  Words: 2
+  Text: se mento
+
+Utterance 383:
+  Time: [14:03.380 - 14:03.800] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: biktima
+
+Utterance 384:
+  Time: [14:04.620 - 14:05.360] (0.74s)
+  Confidence: 1.000
+  Words: 1
+  Text: kabundukan
+
+Utterance 385:
+  Time: [14:06.300 - 14:06.840] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: masukal
+
+Utterance 386:
+  Time: [14:07.740 - 14:08.280] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: setyembe
+
+Utterance 387:
+  Time: [14:10.280 - 14:12.220] (1.94s)
+  Confidence: 1.000
+  Words: 3
+  Text: sett tiyemb pseptyembre
+
+Utterance 388:
+  Time: [14:14.180 - 14:14.580] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: bilang
+
+Utterance 389:
+  Time: [14:15.560 - 14:15.880] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: tanong
+
+Utterance 390:
+  Time: [14:17.260 - 14:17.960] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: nasasabing
+
+Utterance 391:
+  Time: [14:19.140 - 14:19.840] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: kagandahan
+
+Utterance 392:
+  Time: [14:21.140 - 14:21.680] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: masunog
+
+Utterance 393:
+  Time: [14:22.640 - 14:22.700] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: si
+
+Utterance 394:
+  Time: [14:24.100 - 14:24.940] (0.84s)
+  Confidence: 1.000
+  Words: 3
+  Text: ipi na nganak
+
+Utterance 395:
+  Time: [14:26.700 - 14:27.280] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: ikinulong
+
+Utterance 396:
+  Time: [14:28.180 - 14:28.620] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: bilan
+
+Utterance 397:
+  Time: [14:29.600 - 14:33.720] (4.12s)
+  Confidence: 1.000
+  Words: 3
+  Text: kahaponmasuwerte si bak
+
+Utterance 398:
+  Time: [14:34.620 - 14:34.820] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: bili
+
+Utterance 399:
+  Time: [14:35.700 - 14:36.220] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: aharan
+
+Utterance 400:
+  Time: [14:37.240 - 14:37.760] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: masyado
+
+Utterance 401:
+  Time: [14:38.680 - 14:39.300] (0.62s)
+  Confidence: 1.000
+  Words: 1
+  Text: relyabol
+
+Utterance 402:
+  Time: [14:40.460 - 14:40.920] (0.46s)
+  Confidence: 1.000
+  Words: 2
+  Text: si bakin
+
+Utterance 403:
+  Time: [14:42.020 - 14:42.440] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: binata
+
+Utterance 404:
+  Time: [14:43.420 - 14:43.840] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: kahit
+
+Utterance 405:
+  Time: [14:45.000 - 14:45.220] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: mata
+
+Utterance 406:
+  Time: [14:46.660 - 14:46.920] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: siga
+
+Utterance 407:
+  Time: [14:47.980 - 14:48.420] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: binati
+
+Utterance 408:
+  Time: [14:49.640 - 14:49.980] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: ahoy
+
+Utterance 409:
+  Time: [14:50.920 - 14:52.600] (1.68s)
+  Confidence: 1.000
+  Words: 2
+  Text: matalik sigaw
+
+Utterance 410:
+  Time: [14:53.500 - 14:54.060] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: puwedeng
+
+Utterance 411:
+  Time: [14:55.020 - 14:55.440] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: lutang
+
+Utterance 412:
+  Time: [14:56.300 - 14:56.900] (0.60s)
+  Confidence: 1.000
+  Words: 1
+  Text: lumutang
+
+Utterance 413:
+  Time: [14:57.900 - 14:58.140] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: ng
+
+Utterance 414:
+  Time: [14:58.980 - 14:59.360] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: binato
+
+Utterance 415:
+  Time: [15:00.700 - 15:03.920] (3.22s)
+  Confidence: 1.000
+  Words: 3
+  Text: kaibigan matalino sigawan
+
+Utterance 416:
+  Time: [15:04.940 - 15:10.240] (5.30s)
+  Confidence: 1.000
+  Words: 3
+  Text: binawasan kailanmatamis sige
+
+Utterance 417:
+  Time: [15:11.120 - 15:11.660] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: binaibay
+
+Utterance 418:
+  Time: [15:12.460 - 15:14.380] (1.92s)
+  Confidence: 1.000
+  Words: 2
+  Text: kailangan matamlay
+
+Utterance 419:
+  Time: [15:15.200 - 15:15.560] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: sigla
+
+Utterance 420:
+  Time: [15:16.460 - 15:16.980] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: binenta
+
+Utterance 421:
+  Time: [15:18.020 - 15:23.120] (5.10s)
+  Confidence: 1.000
+  Words: 3
+  Text: kailangang matandasiguraduhin binibini
+
+Utterance 422:
+  Time: [15:23.940 - 15:25.960] (2.02s)
+  Confidence: 1.000
+  Words: 2
+  Text: kahilanman matanggap
+
+Utterance 423:
+  Time: [15:26.980 - 15:27.360] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: sikat
+
+Utterance 424:
+  Time: [15:28.640 - 15:29.080] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: binigay
+
+Utterance 425:
+  Time: [15:30.160 - 15:30.640] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: kainan
+
+Utterance 426:
+  Time: [15:31.540 - 15:38.680] (7.14s)
+  Confidence: 1.000
+  Words: 6
+  Text: matapos sikipbinihag kainin materyales si kipan
+
+Utterance 427:
+  Time: [15:39.560 - 15:44.000] (4.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: binilihmkakampi
+
+Utterance 428:
+  Time: [15:44.920 - 15:45.320] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: matindi
+
+Utterance 429:
+  Time: [15:46.360 - 15:46.600] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: sila
+
+Utterance 430:
+  Time: [15:47.560 - 15:49.540] (1.98s)
+  Confidence: 1.000
+  Words: 2
+  Text: binisita kakatwang
+
+Utterance 431:
+  Time: [15:50.560 - 15:50.940] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: matino
+
+Utterance 432:
+  Time: [15:52.240 - 15:52.640] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: silang
+
+Utterance 433:
+  Time: [15:54.460 - 15:55.000] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: bindana
+
+Utterance 434:
+  Time: [15:57.140 - 15:57.800] (0.66s)
+  Confidence: 1.000
+  Words: 1
+  Text: kalagayan
+
+Utterance 435:
+  Time: [15:58.600 - 15:59.060] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: matipuno
+
+Utterance 436:
+  Time: [16:00.260 - 16:00.560] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: ilby
+
+Utterance 437:
+  Time: [16:01.600 - 16:02.300] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: binuhusan
+
+Utterance 438:
+  Time: [16:03.160 - 16:03.840] (0.68s)
+  Confidence: 1.000
+  Words: 1
+  Text: kalaliman
+
+Utterance 439:
+  Time: [16:04.680 - 16:05.520] (0.84s)
+  Confidence: 1.000
+  Words: 2
+  Text: ma matulog
+
+Utterance 440:
+  Time: [16:06.980 - 16:07.540] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: matulog
+
+Utterance 441:
+  Time: [16:08.600 - 16:09.180] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: silbihan
+
+Utterance 442:
+  Time: [16:10.220 - 16:10.760] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: binuksan
+
+Utterance 443:
+  Time: [16:11.900 - 16:12.580] (0.68s)
+  Confidence: 1.000
+  Words: 1
+  Text: kalangitan
+
+Utterance 444:
+  Time: [16:13.800 - 16:14.220] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: maunah
+
+Utterance 445:
+  Time: [16:15.260 - 16:15.640] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: silya
+
+Utterance 446:
+  Time: [16:16.640 - 16:17.080] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: biniyan
+
+Utterance 447:
+  Time: [16:18.160 - 16:18.520] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: kalat
+
+Utterance 448:
+  Time: [16:19.620 - 16:19.800] (0.18s)
+  Confidence: 1.000
+  Words: 1
+  Text: may
+
+Utterance 449:
+  Time: [16:20.800 - 16:21.440] (0.64s)
+  Confidence: 1.000
+  Words: 1
+  Text: simbahan
+
+Utterance 450:
+  Time: [16:22.500 - 16:22.800] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: bisa
+
+Utterance 451:
+  Time: [16:23.720 - 16:25.500] (1.78s)
+  Confidence: 1.000
+  Words: 1
+  Text: kalawakanmhmh
+
+Utterance 452:
+  Time: [16:28.300 - 16:28.620] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: mayah
+
+Utterance 453:
+  Time: [16:29.620 - 16:29.980] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: simple
+
+Utterance 454:
+  Time: [16:31.040 - 16:31.500] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: bihita
+
+Utterance 455:
+  Time: [16:32.460 - 16:33.080] (0.62s)
+  Confidence: 1.000
+  Words: 1
+  Text: kalayaan
+
+Utterance 456:
+  Time: [16:33.960 - 16:34.460] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: ayabang
+
+Utterance 457:
+  Time: [16:35.480 - 16:37.120] (1.64s)
+  Confidence: 1.000
+  Words: 2
+  Text: pweden paraning
+
+Utterance 458:
+  Time: [16:38.960 - 16:39.360] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: ngayon
+
+Utterance 459:
+  Time: [16:40.580 - 16:41.060] (0.48s)
+  Confidence: 1.000
+  Words: 2
+  Text: si nama
+
+Utterance 460:
+  Time: [16:41.940 - 16:42.440] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: bituin
+
+Utterance 461:
+  Time: [16:43.560 - 16:44.320] (0.76s)
+  Confidence: 1.000
+  Words: 1
+  Text: kalikasan
+
+Utterance 462:
+  Time: [16:45.140 - 16:47.160] (2.02s)
+  Confidence: 1.000
+  Words: 2
+  Text: mayaman sinamahan
+
+Utterance 463:
+  Time: [16:48.160 - 16:48.580] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: biyaya
+
+Utterance 464:
+  Time: [16:49.540 - 16:50.240] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: alimutan
+
+Utterance 465:
+  Time: [16:51.160 - 16:51.680] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: manila
+
+Utterance 466:
+  Time: [16:52.640 - 16:53.160] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: sindak
+
+Utterance 467:
+  Time: [16:54.200 - 16:55.860] (1.66s)
+  Confidence: 1.000
+  Words: 2
+  Text: bernes kaliwang
+
+Utterance 468:
+  Time: [16:57.000 - 16:57.320] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: mayo
+
+Utterance 469:
+  Time: [16:58.280 - 16:58.620] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: sindi
+
+Utterance 470:
+  Time: [16:59.680 - 16:59.920] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: black
+
+Utterance 471:
+  Time: [17:00.040 - 17:01.560] (1.52s)
+  Confidence: 1.000
+  Words: 2
+  Text: board alsada
+
+Utterance 472:
+  Time: [17:02.420 - 17:02.900] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: mayroon
+
+Utterance 473:
+  Time: [17:03.860 - 17:04.380] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: sindehan
+
+Utterance 474:
+  Time: [17:05.600 - 17:05.900] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: bobo
+
+Utterance 475:
+  Time: [17:06.860 - 17:07.740] (0.88s)
+  Confidence: 1.000
+  Words: 1
+  Text: kalungkutan
+
+Utterance 476:
+  Time: [17:08.660 - 17:09.320] (0.66s)
+  Confidence: 1.000
+  Words: 2
+  Text: may sakit
+
+Utterance 477:
+  Time: [17:10.300 - 17:10.980] (0.68s)
+  Confidence: 1.000
+  Words: 1
+  Text: singkit
+
+Utterance 478:
+  Time: [17:12.020 - 17:12.340] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: bola
+
+Utterance 479:
+  Time: [17:13.300 - 17:13.640] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: kalye
+
+Utterance 480:
+  Time: [17:14.560 - 17:15.100] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: mensahe
+
+Utterance 481:
+  Time: [17:16.140 - 17:16.720] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: sinelang
+
+Utterance 482:
+  Time: [17:17.720 - 17:18.160] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: bulahan
+
+Utterance 483:
+  Time: [17:19.280 - 17:19.600] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: kama
+
+Utterance 484:
+  Time: [17:20.880 - 17:21.320] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: meron
+
+Utterance 485:
+  Time: [17:22.240 - 17:22.540] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: sino
+
+Utterance 486:
+  Time: [17:23.660 - 17:24.000] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: bote
+
+Utterance 487:
+  Time: [17:25.060 - 17:25.420] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: amay
+
+Utterance 488:
+  Time: [17:26.580 - 17:26.920] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: mesa
+
+Utterance 489:
+  Time: [17:27.920 - 17:28.460] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: sinoman
+
+Utterance 490:
+  Time: [17:29.320 - 17:29.780] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: sinoman
+
+Utterance 491:
+  Time: [17:30.780 - 17:31.420] (0.64s)
+  Confidence: 1.000
+  Words: 2
+  Text: boy frind
+
+Utterance 492:
+  Time: [17:32.420 - 17:34.660] (2.24s)
+  Confidence: 1.000
+  Words: 3
+  Text: kamay kamayan kamayan
+
+Utterance 493:
+  Time: [17:35.940 - 17:36.160] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: manga
+
+Utterance 494:
+  Time: [17:37.580 - 17:38.280] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: sinoungaling
+
+Utterance 495:
+  Time: [17:39.100 - 17:39.700] (0.60s)
+  Confidence: 1.000
+  Words: 1
+  Text: bugbog
+
+Utterance 496:
+  Time: [17:40.760 - 17:40.980] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: kami
+
+Utterance 497:
+  Time: [17:42.060 - 17:42.600] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: minsan
+
+Utterance 498:
+  Time: [17:43.460 - 17:44.000] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: sinunog
+
+Utterance 499:
+  Time: [17:44.840 - 17:46.580] (1.74s)
+  Confidence: 1.000
+  Words: 1
+  Text: bugbuginkamin
+
+Utterance 500:
+  Time: [17:47.500 - 17:48.120] (0.62s)
+  Confidence: 1.000
+  Words: 1
+  Text: sinoot
+
+Utterance 501:
+  Time: [17:48.940 - 17:49.320] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: buhay
+
+Utterance 502:
+  Time: [17:51.320 - 17:51.620] (0.30s)
+  Confidence: 1.000
+  Words: 2
+  Text: ka mo
+
+Utterance 503:
+  Time: [17:52.600 - 17:53.100] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: sipad
+
+Utterance 504:
+  Time: [17:54.040 - 17:54.700] (0.66s)
+  Confidence: 1.000
+  Words: 1
+  Text: masasamang
+
+Utterance 505:
+  Time: [17:56.120 - 17:56.700] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagtanong
+
+Utterance 506:
+  Time: [17:57.680 - 17:58.200] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: bukas
+
+Utterance 507:
+  Time: [17:59.040 - 17:59.700] (0.66s)
+  Confidence: 1.000
+  Words: 1
+  Text: kampihan
+
+Utterance 508:
+  Time: [18:00.720 - 18:02.640] (1.92s)
+  Confidence: 1.000
+  Words: 4
+  Text: mis mong si pagin
+
+Utterance 509:
+  Time: [18:03.540 - 18:03.940] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: bukid
+
+Utterance 510:
+  Time: [18:04.840 - 18:05.700] (0.86s)
+  Confidence: 1.000
+  Words: 2
+  Text: km kamust
+
+Utterance 511:
+  Time: [18:06.560 - 18:07.080] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: amusta
+
+Utterance 512:
+  Time: [18:08.260 - 18:09.020] (0.76s)
+  Confidence: 1.000
+  Words: 2
+  Text: miyerqo les
+
+Utterance 513:
+  Time: [18:09.840 - 18:11.660] (1.82s)
+  Confidence: 1.000
+  Words: 3
+  Text: si pain buksan
+
+Utterance 514:
+  Time: [18:12.740 - 18:12.960] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: ang
+
+Utterance 515:
+  Time: [18:14.020 - 18:14.080] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: mo
+
+Utterance 516:
+  Time: [18:15.320 - 18:15.820] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: sipunin
+
+Utterance 517:
+  Time: [18:16.720 - 18:17.100] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: bumaba
+
+Utterance 518:
+  Time: [18:18.160 - 18:18.540] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: kanila
+
+Utterance 519:
+  Time: [18:19.780 - 18:20.020] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: mong
+
+Utterance 520:
+  Time: [18:21.140 - 18:21.360] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: sira
+
+Utterance 521:
+  Time: [18:23.020 - 18:23.480] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: bumati
+
+Utterance 522:
+  Time: [18:24.320 - 18:24.860] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: panilang
+
+Utterance 523:
+  Time: [18:25.800 - 18:26.040] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: mukha
+
+Utterance 524:
+  Time: [18:28.340 - 18:30.100] (1.76s)
+  Confidence: 1.000
+  Words: 2
+  Text: sirain bumenta
+
+Utterance 525:
+  Time: [18:31.020 - 18:31.440] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: kanino
+
+Utterance 526:
+  Time: [18:32.580 - 18:33.440] (0.86s)
+  Confidence: 1.000
+  Words: 1
+  Text: sisinuhin
+
+Utterance 527:
+  Time: [18:34.300 - 18:34.820] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: bumigay
+
+Utterance 528:
+  Time: [18:35.740 - 18:36.160] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: kanta
+
+Utterance 529:
+  Time: [18:37.320 - 18:37.700] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: muling
+
+Utterance 530:
+  Time: [18:38.580 - 18:39.280] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: magtulungan
+
+Utterance 531:
+  Time: [18:40.160 - 18:40.700] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: magulang
+
+Utterance 532:
+  Time: [18:41.580 - 18:43.920] (2.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: akingakong
+
+Utterance 533:
+  Time: [18:44.920 - 18:45.480] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: sistema
+
+Utterance 534:
+  Time: [18:46.420 - 18:46.440] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: h
+
+Utterance 535:
+  Time: [18:47.320 - 18:47.840] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: sistema
+
+Utterance 536:
+  Time: [18:48.680 - 18:49.040] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: bumili
+
+Utterance 537:
+  Time: [18:50.000 - 18:50.680] (0.68s)
+  Confidence: 1.000
+  Words: 1
+  Text: kantahan
+
+Utterance 538:
+  Time: [18:51.560 - 18:51.700] (0.14s)
+  Confidence: 1.000
+  Words: 1
+  Text: siya
+
+Utterance 539:
+  Time: [18:52.700 - 18:53.320] (0.62s)
+  Confidence: 1.000
+  Words: 1
+  Text: bumisita
+
+Utterance 540:
+  Time: [18:54.260 - 18:54.680] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: kanto
+
+Utterance 541:
+  Time: [18:55.580 - 18:57.060] (1.48s)
+  Confidence: 1.000
+  Words: 2
+  Text: siyang kaniya
+
+Utterance 542:
+  Time: [18:58.080 - 18:59.940] (1.86s)
+  Confidence: 1.000
+  Words: 2
+  Text: sobra bundok
+
+Utterance 543:
+  Time: [19:00.740 - 19:01.260] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: kanyang
+
+Utterance 544:
+  Time: [19:02.140 - 19:02.680] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: munting
+
+Utterance 545:
+  Time: [19:03.760 - 19:05.300] (1.54s)
+  Confidence: 1.000
+  Words: 2
+  Text: sobre bunso
+
+Utterance 546:
+  Time: [19:06.320 - 19:06.680] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: apag
+
+Utterance 547:
+  Time: [19:07.640 - 19:07.920] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: sofha
+
+Utterance 548:
+  Time: [19:08.980 - 19:09.320] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: buong
+
+Utterance 549:
+  Time: [19:10.280 - 19:11.040] (0.76s)
+  Confidence: 1.000
+  Words: 1
+  Text: apahamakan
+
+Utterance 550:
+  Time: [19:12.160 - 19:14.880] (2.72s)
+  Confidence: 1.000
+  Words: 2
+  Text: nasubok buto
+
+Utterance 551:
+  Time: [19:15.900 - 19:17.800] (1.90s)
+  Confidence: 1.000
+  Words: 3
+  Text: kapalaran na alala
+
+Utterance 552:
+  Time: [19:18.760 - 19:20.440] (1.68s)
+  Confidence: 1.000
+  Words: 2
+  Text: subukan buwan
+
+Utterance 553:
+  Time: [19:21.280 - 19:23.220] (1.94s)
+  Confidence: 1.000
+  Words: 2
+  Text: kapalarang nabangga
+
+Utterance 554:
+  Time: [19:24.380 - 19:24.780] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: sugal
+
+Utterance 555:
+  Time: [19:25.900 - 19:27.820] (1.92s)
+  Confidence: 1.000
+  Words: 2
+  Text: buwanang kapatagang
+
+Utterance 556:
+  Time: [19:28.840 - 19:29.200] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: nabasa
+
+Utterance 557:
+  Time: [19:31.880 - 19:34.980] (3.10s)
+  Confidence: 1.000
+  Words: 3
+  Text: sugat daan kapatawaran
+
+Utterance 558:
+  Time: [19:35.800 - 19:36.300] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: nadinig
+
+Utterance 559:
+  Time: [19:37.360 - 19:40.380] (3.02s)
+  Confidence: 1.000
+  Words: 3
+  Text: sukat naanan kapatid
+
+Utterance 560:
+  Time: [19:41.320 - 19:42.820] (1.50s)
+  Confidence: 1.000
+  Words: 2
+  Text: naga skli
+
+Utterance 561:
+  Time: [19:43.900 - 19:44.120] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: daga
+
+Utterance 562:
+  Time: [19:45.240 - 19:45.960] (0.72s)
+  Confidence: 1.000
+  Words: 1
+  Text: kapitbahay
+
+Utterance 563:
+  Time: [19:47.060 - 19:47.800] (0.74s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagaalaga
+
+Utterance 564:
+  Time: [19:48.740 - 19:49.260] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: suklian
+
+Utterance 565:
+  Time: [19:50.200 - 19:52.960] (2.76s)
+  Confidence: 1.000
+  Words: 3
+  Text: nagat noong abangan
+
+Utterance 566:
+  Time: [19:53.980 - 19:54.560] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: seconts
+
+Utterance 567:
+  Time: [19:55.980 - 19:56.040] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: su
+
+Utterance 568:
+  Time: [19:57.060 - 19:57.620] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: saspec
+
+Utterance 569:
+  Time: [20:00.160 - 20:00.440] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: shop
+
+Utterance 570:
+  Time: [20:01.340 - 20:03.460] (2.12s)
+  Confidence: 1.000
+  Words: 1
+  Text: naglasionaktibong
+
+Utterance 571:
+  Time: [20:04.480 - 20:04.860] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: kapoa
+
+Utterance 572:
+  Time: [20:05.940 - 20:06.700] (0.76s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagaalis
+
+Utterance 573:
+  Time: [20:07.580 - 20:07.860] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: suko
+
+Utterance 574:
+  Time: [20:08.760 - 20:09.240] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: dagdat
+
+Utterance 575:
+  Time: [20:10.100 - 20:10.660] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: aranasan
+
+Utterance 576:
+  Time: [20:11.560 - 20:12.160] (0.60s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagaway
+
+Utterance 577:
+  Time: [20:12.980 - 20:14.640] (1.66s)
+  Confidence: 1.000
+  Words: 2
+  Text: sulat nagnagan
+
+Utterance 578:
+  Time: [20:15.500 - 20:16.240] (0.74s)
+  Confidence: 1.000
+  Words: 1
+  Text: karapintero
+
+Utterance 579:
+  Time: [20:17.120 - 20:17.560] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagbasa
+
+Utterance 580:
+  Time: [20:19.220 - 20:19.680] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagbasa
+
+Utterance 581:
+  Time: [20:20.740 - 20:23.660] (2.92s)
+  Confidence: 1.000
+  Words: 3
+  Text: sulatan dahas kasabay
+
+Utterance 582:
+  Time: [20:24.500 - 20:25.240] (0.74s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagbibigay
+
+Utterance 583:
+  Time: [20:26.160 - 20:26.320] (0.16s)
+  Confidence: 1.000
+  Words: 1
+  Text: mmh
+
+Utterance 584:
+  Time: [20:28.400 - 20:29.080] (0.68s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagbibigay
+
+Utterance 585:
+  Time: [20:29.880 - 20:30.440] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: sulatin
+
+Utterance 586:
+  Time: [20:31.360 - 20:33.200] (1.84s)
+  Confidence: 1.000
+  Words: 2
+  Text: dahil kasabihan
+
+Utterance 587:
+  Time: [20:34.280 - 20:34.800] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagbigay
+
+Utterance 588:
+  Time: [20:35.660 - 20:36.200] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: sulirani
+
+Utterance 589:
+  Time: [20:37.080 - 20:37.580] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: nahilan
+
+Utterance 590:
+  Time: [20:38.520 - 20:38.980] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: nasama
+
+Utterance 591:
+  Time: [20:39.920 - 20:40.760] (0.84s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagbubungkal
+
+Utterance 592:
+  Time: [20:41.720 - 20:42.200] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: sulit
+
+Utterance 593:
+  Time: [20:43.060 - 20:43.460] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: ahon
+
+Utterance 594:
+  Time: [20:44.360 - 20:44.960] (0.60s)
+  Confidence: 1.000
+  Words: 1
+  Text: kasamahan
+
+Utterance 595:
+  Time: [20:45.980 - 20:46.740] (0.76s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagidilim
+
+Utterance 596:
+  Time: [20:47.680 - 20:48.240] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: sulitin
+
+Utterance 597:
+  Time: [20:49.120 - 20:49.580] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: dahong
+
+Utterance 598:
+  Time: [20:50.600 - 20:50.700] (0.10s)
+  Confidence: 1.000
+  Words: 1
+  Text: sho
+
+Utterance 599:
+  Time: [20:51.660 - 20:52.280] (0.62s)
+  Confidence: 1.000
+  Words: 1
+  Text: kasawian
+
+Utterance 600:
+  Time: [20:53.240 - 20:54.200] (0.96s)
+  Confidence: 1.000
+  Words: 3
+  Text: nag hinag piase
+
+Utterance 601:
+  Time: [20:55.040 - 20:55.600] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: sulson
+
+Utterance 602:
+  Time: [20:56.500 - 20:57.220] (0.72s)
+  Confidence: 1.000
+  Words: 1
+  Text: naidigg
+
+Utterance 603:
+  Time: [20:58.320 - 20:58.720] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: kasya
+
+Utterance 604:
+  Time: [21:00.340 - 21:00.900] (0.56s)
+  Confidence: 1.000
+  Words: 2
+  Text: nag hirap
+
+Utterance 605:
+  Time: [21:02.180 - 21:02.740] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: sulsulan
+
+Utterance 606:
+  Time: [21:03.780 - 21:04.240] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: nalaga
+
+Utterance 607:
+  Time: [21:05.120 - 21:05.640] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: katawan
+
+Utterance 608:
+  Time: [21:06.680 - 21:08.920] (2.24s)
+  Confidence: 1.000
+  Words: 2
+  Text: nagiging dalampasigan
+
+Utterance 609:
+  Time: [21:09.800 - 21:10.340] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: atulong
+
+Utterance 610:
+  Time: [21:11.220 - 21:13.320] (2.10s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagingsumbong
+
+Utterance 611:
+  Time: [21:14.280 - 21:14.620] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: dalawa
+
+Utterance 612:
+  Time: [21:15.720 - 21:16.420] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: kaugnayan
+
+Utterance 613:
+  Time: [21:17.240 - 21:21.140] (3.90s)
+  Confidence: 1.000
+  Words: 2
+  Text: nagising sumisirapmh
+
+Utterance 614:
+  Time: [21:22.780 - 21:23.280] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: dalawin
+
+Utterance 615:
+  Time: [21:24.200 - 21:26.080] (1.88s)
+  Confidence: 1.000
+  Words: 3
+  Text: payapang sang ayon
+
+Utterance 616:
+  Time: [21:26.880 - 21:27.380] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: tatlong
+
+Utterance 617:
+  Time: [21:28.380 - 21:28.720] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: buwang
+
+Utterance 618:
+  Time: [21:29.600 - 21:29.980] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: mapanghe
+
+Utterance 619:
+  Time: [21:31.080 - 21:31.560] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: maluwang
+
+Utterance 620:
+  Time: [21:32.540 - 21:33.100] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: pangulong
+
+Utterance 621:
+  Time: [21:33.940 - 21:34.560] (0.62s)
+  Confidence: 1.000
+  Words: 1
+  Text: aukulang
+
+Utterance 622:
+  Time: [21:35.580 - 21:36.060] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: aklang
+
+Utterance 623:
+  Time: [21:37.500 - 21:39.260] (1.76s)
+  Confidence: 1.000
+  Words: 2
+  Text: nagkaka nagtaayosan
+
+Utterance 624:
+  Time: [21:40.140 - 21:41.000] (0.86s)
+  Confidence: 1.000
+  Words: 2
+  Text: nagkayo san
+
+Utterance 625:
+  Time: [21:42.060 - 21:42.620] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: sundalo
+
+Utterance 626:
+  Time: [21:43.800 - 21:44.500] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: nalidaling
+
+Utterance 627:
+  Time: [21:47.800 - 21:48.380] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: kaularan
+
+Utterance 628:
+  Time: [21:49.360 - 21:50.200] (0.84s)
+  Confidence: 1.000
+  Words: 2
+  Text: nag kakaingin
+
+Utterance 629:
+  Time: [21:51.040 - 21:51.520] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: sundan
+
+Utterance 630:
+  Time: [21:52.400 - 21:52.980] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: dambahin
+
+Utterance 631:
+  Time: [21:53.800 - 21:54.220] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: kaunti
+
+Utterance 632:
+  Time: [21:55.200 - 21:55.740] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagkamay
+
+Utterance 633:
+  Time: [21:56.600 - 21:56.940] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: sundo
+
+Utterance 634:
+  Time: [21:58.060 - 21:58.500] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: damin
+
+Utterance 635:
+  Time: [21:59.320 - 21:59.660] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: kaya
+
+Utterance 636:
+  Time: [22:02.120 - 22:06.260] (4.14s)
+  Confidence: 1.000
+  Words: 2
+  Text: mmnagkokwento sundoin
+
+Utterance 637:
+  Time: [22:07.080 - 22:08.460] (1.38s)
+  Confidence: 1.000
+  Words: 2
+  Text: damit nayo
+
+Utterance 638:
+  Time: [22:09.300 - 22:11.540] (2.24s)
+  Confidence: 1.000
+  Words: 2
+  Text: naglalarawan sunggab
+
+Utterance 639:
+  Time: [22:12.380 - 22:12.600] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: damo
+
+Utterance 640:
+  Time: [22:13.560 - 22:16.900] (3.34s)
+  Confidence: 1.000
+  Words: 3
+  Text: kayong nagliliwanag sunggaban
+
+Utterance 641:
+  Time: [22:18.260 - 22:19.560] (1.30s)
+  Confidence: 1.000
+  Words: 2
+  Text: dapat kibo
+
+Utterance 642:
+  Time: [22:21.960 - 22:27.360] (5.40s)
+  Confidence: 1.000
+  Words: 3
+  Text: nagba madalingsungkit dasan
+
+Utterance 643:
+  Time: [22:28.180 - 22:28.680] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: kilat
+
+Utterance 644:
+  Time: [22:29.540 - 22:32.100] (2.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagpahingasunog
+
+Utterance 645:
+  Time: [22:33.100 - 22:33.580] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: dasalan
+
+Utterance 646:
+  Time: [22:34.540 - 22:36.660] (2.12s)
+  Confidence: 1.000
+  Words: 2
+  Text: kilabot nagpalambot
+
+Utterance 647:
+  Time: [22:37.480 - 22:37.920] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: suot
+
+Utterance 648:
+  Time: [22:38.740 - 22:39.080] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: datiy
+
+Utterance 649:
+  Time: [22:39.900 - 22:42.500] (2.60s)
+  Confidence: 1.000
+  Words: 2
+  Text: kilabutan nagpapakilala
+
+Utterance 650:
+  Time: [22:43.440 - 22:44.140] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: sustento
+
+Utterance 651:
+  Time: [22:45.260 - 22:45.480] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: daw
+
+Utterance 652:
+  Time: [22:46.440 - 22:46.820] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: kilala
+
+Utterance 653:
+  Time: [22:48.040 - 22:49.080] (1.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagpapaligaya
+
+Utterance 654:
+  Time: [22:50.120 - 22:50.520] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: sweldo
+
+Utterance 655:
+  Time: [22:51.560 - 22:51.880] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: daya
+
+Utterance 656:
+  Time: [22:52.940 - 22:53.300] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: kilay
+
+Utterance 657:
+  Time: [22:54.340 - 22:55.020] (0.68s)
+  Confidence: 1.000
+  Words: 2
+  Text: nag papayo
+
+Utterance 658:
+  Time: [22:56.660 - 22:57.100] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: taas
+
+Utterance 659:
+  Time: [22:57.980 - 22:58.440] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: dayaan
+
+Utterance 660:
+  Time: [22:59.620 - 22:59.880] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: kilo
+
+Utterance 661:
+  Time: [23:00.180 - 23:02.760] (2.58s)
+  Confidence: 1.000
+  Words: 3
+  Text: s nagsabi taasan
+
+Utterance 662:
+  Time: [23:03.660 - 23:06.920] (3.26s)
+  Confidence: 1.000
+  Words: 3
+  Text: dayain kinain nagsalita
+
+Utterance 663:
+  Time: [23:07.900 - 23:08.120] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: taba
+
+Utterance 664:
+  Time: [23:09.120 - 23:09.180] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: di
+
+Utterance 665:
+  Time: [23:10.380 - 23:15.080] (4.70s)
+  Confidence: 1.000
+  Words: 5
+  Text: kinakailangan patungong ginoong mang ya
+
+Utterance 666:
+  Time: [23:16.400 - 23:17.060] (0.66s)
+  Confidence: 1.000
+  Words: 1
+  Text: nangyarng
+
+Utterance 667:
+  Time: [23:18.140 - 23:18.860] (0.72s)
+  Confidence: 1.000
+  Words: 1
+  Text: mangyayari
+
+Utterance 668:
+  Time: [23:19.860 - 23:20.460] (0.60s)
+  Confidence: 1.000
+  Words: 1
+  Text: paputok
+
+Utterance 669:
+  Time: [23:21.320 - 23:21.900] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: kosehong
+
+Utterance 670:
+  Time: [23:22.900 - 23:23.600] (0.70s)
+  Confidence: 1.000
+  Words: 2
+  Text: aligas yong
+
+Utterance 671:
+  Time: [23:24.540 - 23:25.280] (0.74s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagsasabog
+
+Utterance 672:
+  Time: [23:26.260 - 23:26.480] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: tabi
+
+Utterance 673:
+  Time: [23:27.580 - 23:28.100] (0.52s)
+  Confidence: 1.000
+  Words: 2
+  Text: dib deb
+
+Utterance 674:
+  Time: [23:29.060 - 23:29.720] (0.66s)
+  Confidence: 1.000
+  Words: 1
+  Text: kinakain
+
+Utterance 675:
+  Time: [23:30.620 - 23:31.600] (0.98s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagsasalaysyay
+
+Utterance 676:
+  Time: [23:32.680 - 23:33.200] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: tabihan
+
+Utterance 677:
+  Time: [23:34.240 - 23:34.460] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: diki
+
+Utterance 678:
+  Time: [23:35.480 - 23:36.280] (0.80s)
+  Confidence: 1.000
+  Words: 1
+  Text: kinalalagyan
+
+Utterance 679:
+  Time: [23:37.140 - 23:37.900] (0.76s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagsasalita
+
+Utterance 680:
+  Time: [23:39.120 - 23:39.540] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: tabok
+
+Utterance 681:
+  Time: [23:40.480 - 23:41.000] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: dikitan
+
+Utterance 682:
+  Time: [23:41.960 - 23:42.580] (0.62s)
+  Confidence: 1.000
+  Words: 1
+  Text: kinalat
+
+Utterance 683:
+  Time: [23:43.420 - 23:43.960] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagsawa
+
+Utterance 684:
+  Time: [23:45.240 - 23:45.520] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: ae
+
+Utterance 685:
+  Time: [23:46.800 - 23:47.260] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: ikitin
+
+Utterance 686:
+  Time: [23:48.480 - 23:49.160] (0.68s)
+  Confidence: 1.000
+  Words: 1
+  Text: inantahan
+
+Utterance 687:
+  Time: [23:50.040 - 23:50.520] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagtaka
+
+Utterance 688:
+  Time: [23:51.620 - 23:51.860] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: taga
+
+Utterance 689:
+  Time: [23:53.020 - 23:53.520] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: dilaan
+
+Utterance 690:
+  Time: [23:54.500 - 23:58.020] (3.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: kinatatayuanmmhmh
+
+Utterance 691:
+  Time: [23:59.600 - 23:59.940] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagta
+
+Utterance 692:
+  Time: [24:00.000 - 24:00.140] (0.14s)
+  Confidence: 1.000
+  Words: 1
+  Text: alo
+
+Utterance 693:
+  Time: [24:01.000 - 24:01.740] (0.74s)
+  Confidence: 1.000
+  Words: 1
+  Text: tagiliran
+
+Utterance 694:
+  Time: [24:02.580 - 24:03.140] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: delikado
+
+Utterance 695:
+  Time: [24:03.960 - 24:04.400] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: kinuha
+
+Utterance 696:
+  Time: [24:05.400 - 24:06.100] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagtatanong
+
+Utterance 697:
+  Time: [24:07.740 - 24:07.820] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ba
+
+Utterance 698:
+  Time: [24:09.080 - 24:09.140] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: be
+
+Utterance 699:
+  Time: [24:10.400 - 24:10.460] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: be
+
+Utterance 700:
+  Time: [24:11.660 - 24:11.820] (0.16s)
+  Confidence: 1.000
+  Words: 1
+  Text: boo
+
+Utterance 701:
+  Time: [24:12.980 - 24:13.160] (0.18s)
+  Confidence: 1.000
+  Words: 1
+  Text: boo
+
+Utterance 702:
+  Time: [24:14.260 - 24:14.560] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: badt
+
+Utterance 703:
+  Time: [24:15.780 - 24:15.980] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: ag
+
+Utterance 704:
+  Time: [24:17.200 - 24:17.500] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: bak
+
+Utterance 705:
+  Time: [24:18.580 - 24:18.820] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: bal
+
+Utterance 706:
+  Time: [24:20.380 - 24:20.620] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: bam
+
+Utterance 707:
+  Time: [24:22.300 - 24:22.520] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: bane
+
+Utterance 708:
+  Time: [24:24.980 - 24:25.200] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: bang
+
+Utterance 709:
+  Time: [24:26.320 - 24:26.620] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: bact
+
+Utterance 710:
+  Time: [24:27.800 - 24:28.020] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: bar
+
+Utterance 711:
+  Time: [24:29.160 - 24:29.520] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: bas
+
+Utterance 712:
+  Time: [24:30.540 - 24:30.860] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: bat
+
+Utterance 713:
+  Time: [24:31.780 - 24:31.980] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: baw
+
+Utterance 714:
+  Time: [24:33.140 - 24:33.360] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: bay
+
+Utterance 715:
+  Time: [24:34.560 - 24:34.800] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: ben
+
+Utterance 716:
+  Time: [24:36.080 - 24:36.100] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: a
+
+Utterance 717:
+  Time: [24:37.300 - 24:37.560] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: biak
+
+Utterance 718:
+  Time: [24:38.700 - 24:38.960] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: bik
+
+Utterance 719:
+  Time: [24:39.980 - 24:40.220] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: bl
+
+Utterance 720:
+  Time: [24:41.440 - 24:42.540] (1.10s)
+  Confidence: 1.000
+  Words: 1
+  Text: bamh
+
+Utterance 721:
+  Time: [24:43.660 - 24:43.880] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: bam
+
+Utterance 722:
+  Time: [24:45.120 - 24:45.180] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: be
+
+Utterance 723:
+  Time: [24:46.600 - 24:46.900] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: bs
+
+Utterance 724:
+  Time: [24:48.020 - 24:49.580] (1.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: bikboog
+
+Utterance 725:
+  Time: [24:50.660 - 24:50.900] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: bong
+
+Utterance 726:
+  Time: [24:52.080 - 24:52.300] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: oong
+
+Utterance 727:
+  Time: [24:53.500 - 24:53.540] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: bo
+
+Utterance 728:
+  Time: [24:54.960 - 24:55.160] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: oy
+
+Utterance 729:
+  Time: [24:56.540 - 24:56.780] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: boog
+
+Utterance 730:
+  Time: [24:58.040 - 24:58.260] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: boor
+
+Utterance 731:
+  Time: [24:59.480 - 24:59.760] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: bok
+
+Utterance 732:
+  Time: [25:00.880 - 25:01.100] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: ol
+
+Utterance 733:
+  Time: [25:02.160 - 25:02.440] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: brel
+
+Utterance 734:
+  Time: [25:03.700 - 25:03.940] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: bloo
+
+Utterance 735:
+  Time: [25:05.060 - 25:05.140] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: br
+
+Utterance 736:
+  Time: [25:06.420 - 25:06.820] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: baks
+
+Utterance 737:
+  Time: [25:07.760 - 25:07.860] (0.10s)
+  Confidence: 1.000
+  Words: 1
+  Text: bre
+
+Utterance 738:
+  Time: [25:09.180 - 25:09.340] (0.16s)
+  Confidence: 1.000
+  Words: 1
+  Text: boo
+
+Utterance 739:
+  Time: [25:10.640 - 25:10.880] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: ber
+
+Utterance 740:
+  Time: [25:12.160 - 25:12.220] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ra
+
+Utterance 741:
+  Time: [25:13.620 - 25:13.700] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: da
+
+Utterance 742:
+  Time: [25:15.000 - 25:15.060] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: de
+
+Utterance 743:
+  Time: [25:16.400 - 25:16.420] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: d
+
+Utterance 744:
+  Time: [25:17.720 - 25:17.780] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: do
+
+Utterance 745:
+  Time: [25:19.020 - 25:19.080] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: do
+
+Utterance 746:
+  Time: [25:20.360 - 25:20.660] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: dag
+
+Utterance 747:
+  Time: [25:21.720 - 25:21.940] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: al
+
+Utterance 748:
+  Time: [25:23.020 - 25:23.280] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: dik
+
+Utterance 749:
+  Time: [25:24.340 - 25:24.420] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ra
+
+Utterance 750:
+  Time: [25:25.700 - 25:25.920] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: adg
+
+Utterance 751:
+  Time: [25:26.920 - 25:27.140] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: doog
+
+Utterance 752:
+  Time: [25:28.120 - 25:28.400] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: dak
+
+Utterance 753:
+  Time: [25:29.320 - 25:29.600] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: dal
+
+Utterance 754:
+  Time: [25:30.620 - 25:30.840] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: dig
+
+Utterance 755:
+  Time: [25:31.860 - 25:32.120] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: dam
+
+Utterance 756:
+  Time: [25:33.100 - 25:33.180] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: da
+
+Utterance 757:
+  Time: [25:34.340 - 25:34.600] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: dan
+
+Utterance 758:
+  Time: [25:35.640 - 25:35.860] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: dg
+
+Utterance 759:
+  Time: [25:36.860 - 25:37.100] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: ding
+
+Utterance 760:
+  Time: [25:39.340 - 25:39.440] (0.10s)
+  Confidence: 1.000
+  Words: 1
+  Text: da
+
+Utterance 761:
+  Time: [25:40.620 - 25:40.700] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ge
+
+Utterance 762:
+  Time: [25:41.880 - 25:41.900] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: g
+
+Utterance 763:
+  Time: [25:43.060 - 25:43.080] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: b
+
+Utterance 764:
+  Time: [25:44.300 - 25:44.320] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: g
+
+Utterance 765:
+  Time: [25:45.500 - 25:45.740] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: god
+
+Utterance 766:
+  Time: [25:46.680 - 25:46.860] (0.18s)
+  Confidence: 1.000
+  Words: 1
+  Text: gwhah
+
+Utterance 767:
+  Time: [25:47.840 - 25:48.100] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: daw
+
+Utterance 768:
+  Time: [25:49.140 - 25:49.320] (0.18s)
+  Confidence: 1.000
+  Words: 1
+  Text: in
+
+Utterance 769:
+  Time: [25:50.440 - 25:50.620] (0.18s)
+  Confidence: 1.000
+  Words: 1
+  Text: iw
+
+Utterance 770:
+  Time: [25:51.640 - 25:52.020] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: gos
+
+Utterance 771:
+  Time: [25:52.880 - 25:53.300] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: gas
+
+Utterance 772:
+  Time: [25:54.200 - 25:54.400] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: ay
+
+Utterance 773:
+  Time: [25:55.380 - 25:55.680] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: gan
+
+Utterance 774:
+  Time: [25:56.740 - 25:57.020] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: gal
+
+Utterance 775:
+  Time: [25:58.040 - 25:58.360] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: gk
+
+Utterance 776:
+  Time: [25:59.340 - 25:59.540] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: gool
+
+Utterance 777:
+  Time: [26:00.600 - 26:00.820] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: gon
+
+Utterance 778:
+  Time: [26:01.900 - 26:02.160] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: gul
+
+Utterance 779:
+  Time: [26:03.180 - 26:03.520] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: gos
+
+Utterance 780:
+  Time: [26:04.460 - 26:04.820] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: gat
+
+Utterance 781:
+  Time: [26:05.760 - 26:06.020] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: gab
+
+Utterance 782:
+  Time: [26:07.000 - 26:07.080] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: pa
+
+Utterance 783:
+  Time: [26:08.300 - 26:08.380] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: fe
+
+Utterance 784:
+  Time: [26:09.580 - 26:09.640] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: fe
+
+Utterance 785:
+  Time: [26:10.900 - 26:10.960] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ho
+
+Utterance 786:
+  Time: [26:12.220 - 26:12.300] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: po
+
+Utterance 787:
+  Time: [26:13.420 - 26:13.840] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: fas
+
+Utterance 788:
+  Time: [26:14.760 - 26:15.020] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: fan
+
+Utterance 789:
+  Time: [26:15.980 - 26:16.080] (0.10s)
+  Confidence: 1.000
+  Words: 1
+  Text: iye
+
+Utterance 790:
+  Time: [26:17.320 - 26:17.640] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: fek
+
+Utterance 791:
+  Time: [26:18.600 - 26:18.680] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ha
+
+Utterance 792:
+  Time: [26:19.800 - 26:19.880] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: he
+
+Utterance 793:
+  Time: [26:21.200 - 26:21.220] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: e
+
+Utterance 794:
+  Time: [26:22.400 - 26:22.460] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ho
+
+Utterance 795:
+  Time: [26:23.700 - 26:23.780] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ho
+
+Utterance 796:
+  Time: [26:25.140 - 26:25.340] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: yan
+
+Utterance 797:
+  Time: [26:26.440 - 26:26.680] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: how
+
+Utterance 798:
+  Time: [26:27.720 - 26:28.000] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: han
+
+Utterance 799:
+  Time: [26:29.080 - 26:30.700] (1.62s)
+  Confidence: 1.000
+  Words: 1
+  Text: hayt
+
+Utterance 800:
+  Time: [26:31.640 - 26:31.860] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: hy
+
+Utterance 801:
+  Time: [26:32.900 - 26:33.260] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: has
+
+Utterance 802:
+  Time: [26:34.220 - 26:34.420] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: ean
+
+Utterance 803:
+  Time: [26:35.560 - 26:35.760] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: em
+
+Utterance 804:
+  Time: [26:36.780 - 26:37.080] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: hag
+
+Utterance 805:
+  Time: [26:38.000 - 26:38.260] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: hol
+
+Utterance 806:
+  Time: [26:39.260 - 26:39.500] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: hm
+
+Utterance 807:
+  Time: [26:40.540 - 26:40.620] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ja
+
+Utterance 808:
+  Time: [26:41.860 - 26:41.940] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: je
+
+Utterance 809:
+  Time: [26:43.660 - 26:43.740] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: jy
+
+Utterance 810:
+  Time: [26:45.020 - 26:45.060] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: o
+
+Utterance 811:
+  Time: [26:46.400 - 26:46.420] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: u
+
+Utterance 812:
+  Time: [26:47.700 - 26:47.780] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ji
+
+Utterance 813:
+  Time: [26:49.020 - 26:49.320] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: jok
+
+Utterance 814:
+  Time: [26:50.220 - 26:50.440] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: joon
+
+Utterance 815:
+  Time: [26:51.560 - 26:51.640] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ka
+
+Utterance 816:
+  Time: [26:52.860 - 26:52.940] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ke
+
+Utterance 817:
+  Time: [26:54.620 - 26:54.700] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ke
+
+Utterance 818:
+  Time: [26:55.900 - 26:55.960] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ko
+
+Utterance 819:
+  Time: [26:57.300 - 26:57.360] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ko
+
+Utterance 820:
+  Time: [26:58.660 - 26:58.960] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: kit
+
+Utterance 821:
+  Time: [26:59.900 - 26:59.960] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ke
+
+Utterance 822:
+  Time: [27:00.000 - 27:00.100] (0.10s)
+  Confidence: 1.000
+  Words: 1
+  Text: in
+
+Utterance 823:
+  Time: [27:01.100 - 27:01.400] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: kot
+
+Utterance 824:
+  Time: [27:02.360 - 27:02.680] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: kt
+
+Utterance 825:
+  Time: [27:03.680 - 27:03.900] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: kum
+
+Utterance 826:
+  Time: [27:04.980 - 27:05.200] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: kun
+
+Utterance 827:
+  Time: [27:06.320 - 27:06.740] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: kas
+
+Utterance 828:
+  Time: [27:07.660 - 27:07.860] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: am
+
+Utterance 829:
+  Time: [27:08.880 - 27:09.140] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: kal
+
+Utterance 830:
+  Time: [27:10.220 - 27:10.520] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: kan
+
+Utterance 831:
+  Time: [27:11.440 - 27:11.760] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: ket
+
+Utterance 832:
+  Time: [27:12.700 - 27:13.060] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: kat
+
+Utterance 833:
+  Time: [27:14.000 - 27:14.240] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: taw
+
+Utterance 834:
+  Time: [27:15.320 - 27:15.540] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: kim
+
+Utterance 835:
+  Time: [27:16.540 - 27:16.620] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ki
+
+Utterance 836:
+  Time: [27:20.000 - 27:20.060] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: la
+
+Utterance 837:
+  Time: [27:21.220 - 27:21.260] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: le
+
+Utterance 838:
+  Time: [27:23.600 - 27:23.640] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: lo
+
+Utterance 839:
+  Time: [27:24.820 - 27:24.880] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: lu
+
+Utterance 840:
+  Time: [27:26.100 - 27:26.400] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: lok
+
+Utterance 841:
+  Time: [27:27.260 - 27:27.620] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: los
+
+Utterance 842:
+  Time: [27:28.580 - 27:28.800] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: lam
+
+Utterance 843:
+  Time: [27:29.860 - 27:30.060] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: lin
+
+Utterance 844:
+  Time: [27:31.100 - 27:31.320] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: ling
+
+Utterance 845:
+  Time: [27:32.380 - 27:32.720] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: lit
+
+Utterance 846:
+  Time: [27:33.700 - 27:33.960] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: lik
+
+Utterance 847:
+  Time: [27:34.940 - 27:35.140] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: lung
+
+Utterance 848:
+  Time: [27:36.160 - 27:36.380] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: lang
+
+Utterance 849:
+  Time: [27:44.020 - 27:44.240] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: lan
+
+Utterance 850:
+  Time: [27:45.320 - 27:45.640] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: at
+
+Utterance 851:
+  Time: [27:46.580 - 27:46.840] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: lit
+
+Utterance 852:
+  Time: [27:47.960 - 27:47.980] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: i
+
+Utterance 853:
+  Time: [27:49.240 - 27:49.440] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: aw
+
+Utterance 854:
+  Time: [27:50.520 - 27:50.760] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: long
+
+Utterance 855:
+  Time: [27:51.780 - 27:52.040] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: leng
+
+Utterance 856:
+  Time: [27:53.000 - 27:54.460] (1.46s)
+  Confidence: 1.000
+  Words: 2
+  Text: ys las
+
+Utterance 857:
+  Time: [27:55.300 - 27:55.660] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: les
+
+Utterance 858:
+  Time: [27:56.500 - 27:56.740] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: ag
+
+Utterance 859:
+  Time: [27:57.660 - 27:57.920] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: lam
+
+Utterance 860:
+  Time: [27:58.860 - 27:59.060] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: lun
+
+Utterance 861:
+  Time: [28:00.060 - 28:00.320] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: don
+
+Utterance 862:
+  Time: [28:01.340 - 28:01.680] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: lyss
+
+Utterance 863:
+  Time: [28:02.660 - 28:02.720] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ma
+
+Utterance 864:
+  Time: [28:03.920 - 28:03.960] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: e
+
+Utterance 865:
+  Time: [28:05.100 - 28:05.160] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: mi
+
+Utterance 866:
+  Time: [28:06.480 - 28:06.520] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: mo
+
+Utterance 867:
+  Time: [28:07.720 - 28:07.780] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: mo
+
+Utterance 868:
+  Time: [28:09.020 - 28:09.360] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: mak
+
+Utterance 869:
+  Time: [28:10.360 - 28:10.660] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: mar
+
+Utterance 870:
+  Time: [28:11.660 - 28:12.000] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: miss
+
+Utterance 871:
+  Time: [28:12.940 - 28:13.160] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: min
+
+Utterance 872:
+  Time: [28:14.220 - 28:14.480] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: mil
+
+Utterance 873:
+  Time: [28:15.520 - 28:15.840] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: mok
+
+Utterance 874:
+  Time: [28:16.700 - 28:16.980] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: men
+
+Utterance 875:
+  Time: [28:18.080 - 28:18.320] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: mang
+
+Utterance 876:
+  Time: [28:19.320 - 28:19.540] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: mai
+
+Utterance 877:
+  Time: [28:20.620 - 28:20.920] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: nig
+
+Utterance 878:
+  Time: [28:21.860 - 28:21.900] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: ni
+
+Utterance 879:
+  Time: [28:23.160 - 28:23.420] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: man
+
+Utterance 880:
+  Time: [28:24.400 - 28:24.680] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: mon
+
+Utterance 881:
+  Time: [28:25.700 - 28:26.000] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: mad
+
+Utterance 882:
+  Time: [28:26.980 - 28:27.320] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: nak
+
+Utterance 883:
+  Time: [28:28.220 - 28:28.580] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: mat
+
+Utterance 884:
+  Time: [28:29.620 - 28:29.680] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: na
+
+Utterance 885:
+  Time: [28:30.960 - 28:31.040] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ne
+
+Utterance 886:
+  Time: [28:32.260 - 28:32.280] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: n
+
+Utterance 887:
+  Time: [28:33.560 - 28:33.620] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: no
+
+Utterance 888:
+  Time: [28:34.840 - 28:34.900] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: nu
+
+Utterance 889:
+  Time: [28:36.120 - 28:36.400] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: nag
+
+Utterance 890:
+  Time: [28:37.440 - 28:37.660] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: naiy
+
+Utterance 891:
+  Time: [28:38.780 - 28:39.060] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: igk
+
+Utterance 892:
+  Time: [28:40.060 - 28:40.280] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: naw
+
+Utterance 893:
+  Time: [28:41.380 - 28:41.620] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: nn
+
+Utterance 894:
+  Time: [28:42.680 - 28:42.980] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: nok
+
+Utterance 895:
+  Time: [28:43.880 - 28:44.120] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: an
+
+Utterance 896:
+  Time: [28:45.100 - 28:45.360] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: nig
+
+Utterance 897:
+  Time: [28:46.460 - 28:46.680] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: nin
+
+Utterance 898:
+  Time: [28:47.800 - 28:48.040] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: nang
+
+Utterance 899:
+  Time: [28:49.080 - 28:49.400] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: nok
+
+Utterance 900:
+  Time: [28:50.320 - 28:50.640] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: nak
+
+Utterance 901:
+  Time: [28:51.520 - 28:51.740] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: nm
+
+Utterance 902:
+  Time: [28:52.780 - 28:53.160] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: nas
+
+Utterance 903:
+  Time: [28:54.120 - 28:54.380] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: nig
+
+Utterance 904:
+  Time: [28:55.300 - 28:55.560] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: nob
+
+Utterance 905:
+  Time: [28:56.560 - 28:56.800] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: nam
+
+Utterance 906:
+  Time: [28:57.740 - 28:57.980] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: nn
+
+Utterance 907:
+  Time: [28:59.060 - 28:59.120] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: na
+
+Utterance 908:
+  Time: [29:00.260 - 29:00.380] (0.12s)
+  Confidence: 1.000
+  Words: 1
+  Text: nge
+
+Utterance 909:
+  Time: [29:02.240 - 29:03.660] (1.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: nnengo
+
+Utterance 910:
+  Time: [29:05.640 - 29:05.760] (0.12s)
+  Confidence: 1.000
+  Words: 1
+  Text: no
+
+Utterance 911:
+  Time: [29:06.900 - 29:07.200] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: ngan
+
+Utterance 912:
+  Time: [29:08.140 - 29:08.480] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: nog
+
+Utterance 913:
+  Time: [29:09.460 - 29:09.740] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: nn
+
+Utterance 914:
+  Time: [29:10.700 - 29:11.000] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: ngay
+
+Utterance 915:
+  Time: [29:12.040 - 29:13.560] (1.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: ngenin
+
+Utterance 916:
+  Time: [29:14.520 - 29:14.800] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: ngn
+
+Utterance 917:
+  Time: [29:19.860 - 29:19.900] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: a
+
+Utterance 918:
+  Time: [29:21.120 - 29:22.480] (1.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: pepi
+
+Utterance 919:
+  Time: [29:23.680 - 29:25.080] (1.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: popo
+
+Utterance 920:
+  Time: [29:26.340 - 29:26.680] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: pag
+
+Utterance 921:
+  Time: [29:27.600 - 29:27.920] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: pak
+
+Utterance 922:
+  Time: [29:28.820 - 29:29.220] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: pas
+
+Utterance 923:
+  Time: [29:30.220 - 29:30.560] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: pat
+
+Utterance 924:
+  Time: [29:31.520 - 29:31.860] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: pet
+
+Utterance 925:
+  Time: [29:32.840 - 29:33.100] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: pon
+
+Utterance 926:
+  Time: [29:34.120 - 29:34.380] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: poy
+
+Utterance 927:
+  Time: [29:35.600 - 29:35.840] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: pian
+
+Utterance 928:
+  Time: [29:36.800 - 29:37.100] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: pan
+
+Utterance 929:
+  Time: [29:38.100 - 29:39.420] (1.32s)
+  Confidence: 1.000
+  Words: 2
+  Text: peet pla
+
+Utterance 930:
+  Time: [29:40.520 - 29:42.040] (1.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: pangpin
+
+Utterance 931:
+  Time: [29:43.220 - 29:43.520] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: pr
+
+Utterance 932:
+  Time: [29:44.520 - 29:44.740] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: ped
+
+Utterance 933:
+  Time: [29:45.800 - 29:46.160] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: pos
+
+Utterance 934:
+  Time: [29:47.060 - 29:47.300] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: pon
+
+Utterance 935:
+  Time: [29:48.300 - 29:48.560] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: per
+
+Utterance 936:
+  Time: [29:49.540 - 29:49.620] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ra
+
+Utterance 937:
+  Time: [29:50.760 - 29:50.840] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: re
+
+Utterance 938:
+  Time: [29:52.040 - 29:52.300] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: rek
+
+Utterance 939:
+  Time: [29:53.220 - 29:53.280] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ro
+
+Utterance 940:
+  Time: [29:54.400 - 29:54.500] (0.10s)
+  Confidence: 1.000
+  Words: 1
+  Text: ru
+
+Utterance 941:
+  Time: [29:55.600 - 29:55.660] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ra
+
+Utterance 942:
+  Time: [29:56.820 - 29:57.060] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: ral
+
+Utterance 943:
+  Time: [29:58.040 - 29:58.240] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: rang
+
+Utterance 944:
+  Time: [29:59.180 - 29:59.580] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: rat
+
+Utterance 945:
+  Time: [30:00.260 - 30:00.580] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: ran
+
+Utterance 946:
+  Time: [30:01.460 - 30:01.740] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: rouw
+
+Utterance 947:
+  Time: [30:02.780 - 30:03.000] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: rin
+
+Utterance 948:
+  Time: [30:03.860 - 30:06.480] (2.62s)
+  Confidence: 1.000
+  Words: 3
+  Text: rret rap rong
+
+Utterance 949:
+  Time: [30:08.700 - 30:08.780] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: sa
+
+Utterance 950:
+  Time: [30:09.920 - 30:09.940] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: e
+
+Utterance 951:
+  Time: [30:11.080 - 30:11.100] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: i
+
+Utterance 952:
+  Time: [30:12.240 - 30:12.300] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: su
+
+Utterance 953:
+  Time: [30:13.360 - 30:13.380] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: s
+
+Utterance 954:
+  Time: [30:14.560 - 30:14.860] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: syam
+
+Utterance 955:
+  Time: [30:15.760 - 30:16.060] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: sng
+
+Utterance 956:
+  Time: [30:17.000 - 30:18.460] (1.46s)
+  Confidence: 1.000
+  Words: 2
+  Text: sak sn
+
+Utterance 957:
+  Time: [30:19.360 - 30:19.660] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: san
+
+Utterance 958:
+  Time: [30:20.600 - 30:20.660] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: si
+
+Utterance 959:
+  Time: [30:21.820 - 30:21.900] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: su
+
+Utterance 960:
+  Time: [30:22.960 - 30:23.220] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: sog
+
+Utterance 961:
+  Time: [30:24.200 - 30:24.360] (0.16s)
+  Confidence: 1.000
+  Words: 1
+  Text: kuwe
+
+Utterance 962:
+  Time: [30:25.460 - 30:25.780] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: sal
+
+Utterance 963:
+  Time: [30:26.660 - 30:26.940] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: sim
+
+Utterance 964:
+  Time: [30:27.880 - 30:28.140] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: sing
+
+Utterance 965:
+  Time: [30:29.060 - 30:30.560] (1.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: sagsig
+
+Utterance 966:
+  Time: [30:31.420 - 30:32.620] (1.20s)
+  Confidence: 1.000
+  Words: 2
+  Text: sok se
+
+Utterance 967:
+  Time: [30:33.740 - 30:34.040] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: sil
+
+Utterance 968:
+  Time: [30:34.900 - 30:35.200] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: sis
+
+Utterance 969:
+  Time: [30:36.040 - 30:36.340] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: sok
+
+Utterance 970:
+  Time: [30:37.320 - 30:37.580] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: sul
+
+Utterance 971:
+  Time: [30:38.480 - 30:39.840] (1.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: olson
+
+Utterance 972:
+  Time: [30:40.760 - 30:41.000] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: son
+
+Utterance 973:
+  Time: [30:42.000 - 30:42.260] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: sng
+
+Utterance 974:
+  Time: [30:43.200 - 30:43.520] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: sus
+
+Utterance 975:
+  Time: [30:44.340 - 30:44.500] (0.16s)
+  Confidence: 1.000
+  Words: 1
+  Text: suwe
+
+Utterance 976:
+  Time: [30:45.500 - 30:45.580] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ta
+
+Utterance 977:
+  Time: [30:46.640 - 30:47.880] (1.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: teti
+
+Utterance 978:
+  Time: [30:49.000 - 30:49.060] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: to
+
+Utterance 979:
+  Time: [30:50.140 - 30:50.220] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: tu
+
+Utterance 980:
+  Time: [30:51.320 - 30:51.600] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: tan
+
+Utterance 981:
+  Time: [30:52.600 - 30:52.820] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: tay
+
+Utterance 982:
+  Time: [30:53.820 - 30:54.180] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: tas
+
+Utterance 983:
+  Time: [30:55.100 - 30:56.580] (1.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: turtik
+
+Utterance 984:
+  Time: [30:57.400 - 30:58.840] (1.44s)
+  Confidence: 1.000
+  Words: 2
+  Text: tes tokk
+
+Utterance 985:
+  Time: [30:59.680 - 30:59.920] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: taw
+
+Utterance 986:
+  Time: [31:00.820 - 31:01.060] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: tin
+
+Utterance 987:
+  Time: [31:02.100 - 31:02.340] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: tab
+
+Utterance 988:
+  Time: [31:03.220 - 31:04.600] (1.38s)
+  Confidence: 1.000
+  Words: 2
+  Text: tik tel
+
+Utterance 989:
+  Time: [31:05.440 - 31:05.780] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: tos
+
+Utterance 990:
+  Time: [31:06.600 - 31:06.860] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: tong
+
+Utterance 991:
+  Time: [31:07.780 - 31:08.100] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: tit
+
+Utterance 992:
+  Time: [31:08.980 - 31:09.220] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: ten
+
+Utterance 993:
+  Time: [31:10.080 - 31:10.360] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: ting
+
+Utterance 994:
+  Time: [31:11.200 - 31:11.500] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: takk
+
+Utterance 995:
+  Time: [31:12.320 - 31:12.560] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: tam
+
+Utterance 996:
+  Time: [31:13.580 - 31:14.840] (1.26s)
+  Confidence: 1.000
+  Words: 2
+  Text: tim til
+
+Utterance 997:
+  Time: [31:33.720 - 31:33.840] (0.12s)
+  Confidence: 1.000
+  Words: 1
+  Text: tcha
+
+Utterance 998:
+  Time: [31:34.900 - 31:34.980] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: che
+
+Utterance 999:
+  Time: [31:36.080 - 31:36.140] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ch
+
+Utterance 1000:
+  Time: [31:37.220 - 31:37.240] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: s
+
+Utterance 1001:
+  Time: [31:38.340 - 31:38.400] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: zu
+
+Utterance 1002:
+  Time: [31:39.700 - 31:39.740] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: zu
+
+Utterance 1003:
+  Time: [31:40.980 - 31:41.360] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: cice
+
+Utterance 1004:
+  Time: [31:46.500 - 31:46.540] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: a
+
+Utterance 1005:
+  Time: [31:47.560 - 31:48.780] (1.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: vev
+
+Utterance 1006:
+  Time: [31:51.720 - 31:51.800] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: vo
+
+Utterance 1007:
+  Time: [31:52.780 - 31:52.840] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: vo
+
+Utterance 1008:
+  Time: [31:53.840 - 31:54.100] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: ven
+
+Utterance 1009:
+  Time: [31:54.940 - 31:55.200] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: ver
+
+Utterance 1010:
+  Time: [31:56.080 - 31:56.500] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: vice
+
+Utterance 1011:
+  Time: [31:58.000 - 31:58.080] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: wa
+
+Utterance 1012:
+  Time: [31:59.060 - 31:59.100] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: we
+
+Utterance 1013:
+  Time: [32:00.100 - 32:00.220] (0.12s)
+  Confidence: 1.000
+  Words: 1
+  Text: hwe
+
+Utterance 1014:
+  Time: [32:01.280 - 32:01.360] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: uwa
+
+Utterance 1015:
+  Time: [32:02.240 - 32:02.360] (0.12s)
+  Confidence: 1.000
+  Words: 1
+  Text: huo
+
+Utterance 1016:
+  Time: [32:03.420 - 32:04.860] (1.44s)
+  Confidence: 1.000
+  Words: 2
+  Text: huweed hwhad
+
+Utterance 1017:
+  Time: [32:05.760 - 32:06.060] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: uwag
+
+Utterance 1018:
+  Time: [32:06.900 - 32:07.180] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: huwhay
+
+Utterance 1019:
+  Time: [32:08.040 - 32:08.340] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: huwen
+
+Utterance 1020:
+  Time: [32:09.440 - 32:09.780] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: huwhan
+
+Utterance 1021:
+  Time: [32:10.640 - 32:12.100] (1.46s)
+  Confidence: 1.000
+  Words: 2
+  Text: puwhak uwhas
+
+Utterance 1022:
+  Time: [32:12.920 - 32:16.420] (3.50s)
+  Confidence: 1.000
+  Words: 4
+  Text: uhat hwin huwang hwin
+
+Utterance 1023:
+  Time: [32:17.420 - 32:17.740] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: huwang
+
+Utterance 1024:
+  Time: [32:18.900 - 32:19.000] (0.10s)
+  Confidence: 1.000
+  Words: 1
+  Text: ya
+
+Utterance 1025:
+  Time: [32:20.060 - 32:20.120] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ye
+
+Utterance 1026:
+  Time: [32:21.300 - 32:21.320] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: y
+
+Utterance 1027:
+  Time: [32:22.360 - 32:22.420] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: yo
+
+Utterance 1028:
+  Time: [32:23.480 - 32:23.520] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: u
+
+Utterance 1029:
+  Time: [32:24.520 - 32:24.760] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: yem
+
+Utterance 1030:
+  Time: [32:25.700 - 32:25.920] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: yn
+
+Utterance 1031:
+  Time: [32:26.780 - 32:26.860] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ya
+
+Utterance 1032:
+  Time: [32:27.820 - 32:30.200] (2.38s)
+  Confidence: 1.000
+  Words: 3
+  Text: yat yan yar
+
+Utterance 1033:
+  Time: [32:31.020 - 32:31.360] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: yos
+
+Utterance 1034:
+  Time: [32:32.200 - 32:32.380] (0.18s)
+  Confidence: 1.000
+  Words: 1
+  Text: yer
+
+Utterance 1035:
+  Time: [32:33.260 - 32:33.520] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: yad
+
+Utterance 1036:
+  Time: [32:34.420 - 32:34.680] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: yang
+
+Utterance 1037:
+  Time: [32:36.700 - 32:36.920] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: yang
+
+Utterance 1038:
+  Time: [32:37.840 - 32:39.120] (1.28s)
+  Confidence: 1.000
+  Words: 2
+  Text: yak yon
+
+Utterance 1039:
+  Time: [32:40.060 - 32:40.300] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: yor
+
+Utterance 1040:
+  Time: [32:41.280 - 32:41.340] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: za
+
+Utterance 1041:
+  Time: [32:42.360 - 32:42.420] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ze
+
+Utterance 1042:
+  Time: [32:43.460 - 32:45.620] (2.16s)
+  Confidence: 1.000
+  Words: 2
+  Text: zzonk zu
+
+Utterance 1043:
+  Time: [32:46.620 - 32:51.560] (4.94s)
+  Confidence: 1.000
+  Words: 2
+  Text: zenang as
+
+Utterance 1044:
+  Time: [32:52.400 - 32:52.660] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: ak
+
+Utterance 1045:
+  Time: [32:53.580 - 32:53.740] (0.16s)
+  Confidence: 1.000
+  Words: 1
+  Text: ay
+
+Utterance 1046:
+  Time: [32:54.680 - 32:55.000] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: at
+
+Utterance 1047:
+  Time: [32:55.980 - 32:56.180] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: ar
+
+Utterance 1048:
+  Time: [32:57.180 - 32:57.440] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: an
+
+Utterance 1049:
+  Time: [32:58.480 - 32:58.680] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: an
+
+Utterance 1050:
+  Time: [32:59.780 - 32:59.960] (0.18s)
+  Confidence: 1.000
+  Words: 1
+  Text: ag
+
+Utterance 1051:
+  Time: [33:00.020 - 33:00.040] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: g
+
+Utterance 1052:
+  Time: [33:01.240 - 33:01.280] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: n
+
+Utterance 1053:
+  Time: [33:02.320 - 33:02.540] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: en
+
+Utterance 1054:
+  Time: [33:03.600 - 33:03.860] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: eng
+
+Utterance 1055:
+  Time: [33:04.840 - 33:05.040] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: ed
+
+Utterance 1056:
+  Time: [33:06.320 - 33:06.340] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: s
+
+Utterance 1057:
+  Time: [33:07.340 - 33:07.620] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: is
+
+Utterance 1058:
+  Time: [33:08.600 - 33:08.800] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: ing
+
+Utterance 1059:
+  Time: [33:09.940 - 33:10.040] (0.10s)
+  Confidence: 1.000
+  Words: 1
+  Text: ng
+
+Utterance 1060:
+  Time: [33:11.200 - 33:11.260] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ng
+
+Utterance 1061:
+  Time: [33:12.340 - 33:12.580] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: boong
+
+Utterance 1062:
+  Time: [33:13.580 - 33:13.860] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: dang
+
+Utterance 1063:
+  Time: [33:14.800 - 33:15.040] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: nong
+
+Utterance 1064:
+  Time: [33:16.220 - 33:16.440] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: dyng
+
+Utterance 1065:
+  Time: [33:17.520 - 33:17.820] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: gang
+
+Utterance 1066:
+  Time: [33:18.800 - 33:19.080] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: dong
+
+Utterance 1067:
+  Time: [33:20.100 - 33:20.420] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: hang
+
+Utterance 1068:
+  Time: [33:21.240 - 33:21.520] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: hing
+
+Utterance 1069:
+  Time: [33:22.480 - 33:22.760] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: hong
+
+Utterance 1070:
+  Time: [33:23.800 - 33:24.120] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: ting
+
+Utterance 1071:
+  Time: [33:25.060 - 33:25.360] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: tang
+
+Utterance 1072:
+  Time: [33:26.360 - 33:26.580] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: ong
+
+Utterance 1073:
+  Time: [33:27.500 - 33:27.760] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: kung
+
+Utterance 1074:
+  Time: [33:28.780 - 33:29.040] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: ming
+
+Utterance 1075:
+  Time: [33:30.080 - 33:30.340] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: mong
+
+Utterance 1076:
+  Time: [33:31.360 - 33:31.580] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: mung
+
+Utterance 1077:
+  Time: [33:32.620 - 33:32.860] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: ning
+
+Utterance 1078:
+  Time: [33:33.860 - 33:34.120] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: nong
+
+Utterance 1079:
+  Time: [33:35.140 - 33:35.400] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: nung
+
+Utterance 1080:
+  Time: [33:36.440 - 33:36.700] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: neng
+
+Utterance 1081:
+  Time: [33:37.740 - 33:38.060] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: nguong
+
+Utterance 1082:
+  Time: [33:39.280 - 33:39.340] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ng
+
+Utterance 1083:
+  Time: [33:40.280 - 33:40.540] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: pung
+
+Utterance 1084:
+  Time: [33:41.540 - 33:41.820] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: pong
+
+Utterance 1085:
+  Time: [33:42.820 - 33:43.040] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: reng
+
+Utterance 1086:
+  Time: [33:44.100 - 33:44.420] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: sang
+
+Utterance 1087:
+  Time: [33:45.240 - 33:45.520] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: sog
+
+Utterance 1088:
+  Time: [33:46.500 - 33:46.780] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: sing
+
+Utterance 1089:
+  Time: [33:47.660 - 33:47.940] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: tang
+
+Utterance 1090:
+  Time: [33:48.940 - 33:49.220] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: teng
+
+Utterance 1091:
+  Time: [33:50.240 - 33:50.480] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: tung
+
+Utterance 1092:
+  Time: [33:51.600 - 33:51.840] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: sang
+
+Utterance 1093:
+  Time: [33:52.800 - 33:53.020] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: tsong
+
+Utterance 1094:
+  Time: [33:54.080 - 33:54.320] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: ting
+
+Utterance 1095:
+  Time: [33:55.400 - 33:55.620] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: ying
+
+Utterance 1096:
+  Time: [33:56.620 - 33:56.840] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: yong
+
+Utterance 1097:
+  Time: [33:57.820 - 33:58.020] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: yung
+
+Utterance 1098:
+  Time: [34:00.820 - 34:00.840] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: h
+
+Utterance 1099:
+  Time: [34:08.880 - 34:09.000] (0.12s)
+  Confidence: 1.000
+  Words: 1
+  Text: eh
+
+Utterance 1100:
+  Time: [34:12.220 - 34:12.520] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: bab
+
+Utterance 1101:
+  Time: [34:13.400 - 34:13.460] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: be
+
+Utterance 1102:
+  Time: [34:14.520 - 34:14.780] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: bem
+
+Utterance 1103:
+  Time: [34:15.780 - 34:16.060] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: bow
+
+Utterance 1104:
+  Time: [34:17.220 - 34:18.720] (1.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: buwaboy
+
+Utterance 1105:
+  Time: [34:20.460 - 34:21.760] (1.30s)
+  Confidence: 1.000
+  Words: 2
+  Text: das day
+
+Utterance 1106:
+  Time: [34:22.680 - 34:22.980] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: del
+
+Utterance 1107:
+  Time: [34:23.800 - 34:24.060] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: den
+
+Utterance 1108:
+  Time: [34:25.100 - 34:25.320] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: og
+
+Utterance 1109:
+  Time: [34:26.220 - 34:27.740] (1.52s)
+  Confidence: 1.000
+  Words: 2
+  Text: dose gat
+
+Utterance 1110:
+  Time: [34:28.560 - 34:29.960] (1.40s)
+  Confidence: 1.000
+  Words: 2
+  Text: gak gam
+
+Utterance 1111:
+  Time: [34:30.880 - 34:30.940] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ga
+
+Utterance 1112:
+  Time: [34:32.020 - 34:32.300] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: far
+
+Utterance 1113:
+  Time: [34:33.260 - 34:33.600] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: fat
+
+Utterance 1114:
+  Time: [34:34.460 - 34:34.740] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: fel
+
+Utterance 1115:
+  Time: [34:35.600 - 34:35.840] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: png
+
+Utterance 1116:
+  Time: [34:36.840 - 34:36.920] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: fo
+
+Utterance 1117:
+  Time: [34:37.900 - 34:38.180] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: hb
+
+Utterance 1118:
+  Time: [34:39.000 - 34:39.300] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: had
+
+Utterance 1119:
+  Time: [34:40.120 - 34:40.200] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ha
+
+Utterance 1120:
+  Time: [34:41.260 - 34:41.500] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: ken
+
+Utterance 1121:
+  Time: [34:42.480 - 34:42.580] (0.10s)
+  Confidence: 1.000
+  Words: 1
+  Text: ee
+
+Utterance 1122:
+  Time: [34:43.480 - 34:44.800] (1.32s)
+  Confidence: 1.000
+  Words: 2
+  Text: hag hong
+
+Utterance 1123:
+  Time: [34:45.720 - 34:49.400] (3.68s)
+  Confidence: 1.000
+  Words: 4
+  Text: jag jak jas jaz
+
+Utterance 1124:
+  Time: [34:50.280 - 34:50.480] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: yng
+
+Utterance 1125:
+  Time: [34:51.360 - 34:51.640] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: joy
+
+Utterance 1126:
+  Time: [34:52.640 - 34:52.660] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: a
+
+Utterance 1127:
+  Time: [34:53.760 - 34:53.800] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: a
+
+Utterance 1128:
+  Time: [34:55.040 - 34:55.280] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: agd
+
+Utterance 1129:
+  Time: [34:56.160 - 34:56.400] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: ken
+
+Utterance 1130:
+  Time: [34:57.320 - 34:57.620] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: ked
+
+Utterance 1131:
+  Time: [34:58.560 - 34:58.800] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: og
+
+Utterance 1132:
+  Time: [34:59.740 - 34:59.820] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ko
+
+Utterance 1133:
+  Time: [35:00.960 - 35:01.220] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: koy
+
+Utterance 1134:
+  Time: [35:02.260 - 35:02.480] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: kr
+
+Utterance 1135:
+  Time: [35:03.580 - 35:03.940] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: labe
+
+Utterance 1136:
+  Time: [35:04.920 - 35:05.200] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: ladd
+
+Utterance 1137:
+  Time: [35:06.100 - 35:06.340] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: lay
+
+Utterance 1138:
+  Time: [35:07.420 - 35:07.740] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: log
+
+Utterance 1139:
+  Time: [35:08.760 - 35:08.820] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: lo
+
+Utterance 1140:
+  Time: [35:09.960 - 35:10.180] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: loy
+
+Utterance 1141:
+  Time: [35:11.200 - 35:11.500] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: luk
+
+Utterance 1142:
+  Time: [35:12.420 - 35:12.680] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: mal
+
+Utterance 1143:
+  Time: [35:13.660 - 35:13.920] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: mem
+
+Utterance 1144:
+  Time: [35:14.800 - 35:14.840] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: mi
+
+Utterance 1145:
+  Time: [35:15.980 - 35:16.300] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: maer
+
+Utterance 1146:
+  Time: [35:17.260 - 35:17.320] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: mo
+
+Utterance 1147:
+  Time: [35:18.760 - 35:19.040] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: mnog
+
+Utterance 1148:
+  Time: [35:20.000 - 35:20.280] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: muk
+
+Utterance 1149:
+  Time: [35:21.160 - 35:21.420] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: nad
+
+Utterance 1150:
+  Time: [35:22.380 - 35:22.660] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: nad
+
+Utterance 1151:
+  Time: [35:23.600 - 35:23.880] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: nal
+
+Utterance 1152:
+  Time: [35:24.840 - 35:25.160] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: neg
+
+Utterance 1153:
+  Time: [35:26.040 - 35:26.400] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: nek
+
+Utterance 1154:
+  Time: [35:27.240 - 35:27.560] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: nik
+
+Utterance 1155:
+  Time: [35:28.380 - 35:28.660] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: nir
+
+Utterance 1156:
+  Time: [35:29.540 - 35:29.940] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: nouss
+
+Utterance 1157:
+  Time: [35:30.760 - 35:30.840] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: nlo
+
+Utterance 1158:
+  Time: [35:32.040 - 35:36.000] (3.96s)
+  Confidence: 1.000
+  Words: 4
+  Text: nous nas ngek ngik
+
+Utterance 1159:
+  Time: [35:36.860 - 35:36.940] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ng
+
+Utterance 1160:
+  Time: [35:38.200 - 35:38.440] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: pad
+
+Utterance 1161:
+  Time: [35:39.460 - 35:39.500] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: mh
+
+Utterance 1162:
+  Time: [35:40.880 - 35:41.160] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: peng
+
+Utterance 1163:
+  Time: [35:42.200 - 35:42.520] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: pik
+
+Utterance 1164:
+  Time: [35:43.480 - 35:43.560] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: po
+
+Utterance 1165:
+  Time: [35:44.680 - 35:44.940] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: pok
+
+Utterance 1166:
+  Time: [35:45.820 - 35:46.200] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: puus
+
+Utterance 1167:
+  Time: [35:47.000 - 35:47.060] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ra
+
+Utterance 1168:
+  Time: [35:48.140 - 35:48.400] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: rad
+
+Utterance 1169:
+  Time: [35:49.240 - 35:49.540] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: rad
+
+Utterance 1170:
+  Time: [35:50.400 - 35:51.720] (1.32s)
+  Confidence: 1.000
+  Words: 2
+  Text: rak rem
+
+Utterance 1171:
+  Time: [35:52.640 - 35:52.860] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: ren
+
+Utterance 1172:
+  Time: [35:53.780 - 35:55.040] (1.26s)
+  Confidence: 1.000
+  Words: 2
+  Text: rys ro
+
+Utterance 1173:
+  Time: [35:56.120 - 35:56.460] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: sad
+
+Utterance 1174:
+  Time: [35:57.320 - 35:57.400] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: sa
+
+Utterance 1175:
+  Time: [35:58.420 - 35:58.620] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: shey
+
+Utterance 1176:
+  Time: [35:59.640 - 35:59.720] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: so
+
+Utterance 1177:
+  Time: [36:00.840 - 36:01.040] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: suy
+
+Utterance 1178:
+  Time: [36:02.040 - 36:02.120] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ta
+
+Utterance 1179:
+  Time: [36:03.220 - 36:03.560] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: tak
+
+Utterance 1180:
+  Time: [36:04.380 - 36:04.600] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: ten
+
+Utterance 1181:
+  Time: [36:05.600 - 36:05.820] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: ten
+
+Utterance 1182:
+  Time: [36:06.720 - 36:06.740] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: m
+
+Utterance 1183:
+  Time: [36:07.760 - 36:08.040] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: togg
+
+Utterance 1184:
+  Time: [36:08.940 - 36:09.020] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: to
+
+Utterance 1185:
+  Time: [36:10.160 - 36:10.220] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: ta
+
+Utterance 1186:
+  Time: [36:11.300 - 36:11.640] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: tek
+
+Utterance 1187:
+  Time: [36:12.440 - 36:14.020] (1.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: sestok
+
+Utterance 1188:
+  Time: [36:14.860 - 36:15.060] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: toy
+
+Utterance 1189:
+  Time: [36:16.100 - 36:16.380] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: ak
+
+Utterance 1190:
+  Time: [36:17.280 - 36:18.820] (1.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: balbes
+
+Utterance 1191:
+  Time: [36:19.700 - 36:19.920] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: ban
+
+Utterance 1192:
+  Time: [36:20.920 - 36:21.220] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: bol
+
+Utterance 1193:
+  Time: [36:22.180 - 36:22.440] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: wal
+
+Utterance 1194:
+  Time: [36:23.380 - 36:23.620] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: war
+
+Utterance 1195:
+  Time: [36:24.540 - 36:24.800] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: wed
+
+Utterance 1196:
+  Time: [36:25.620 - 36:25.880] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: wol
+
+Utterance 1197:
+  Time: [36:26.800 - 36:27.100] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: yak
+
+Utterance 1198:
+  Time: [36:28.020 - 36:28.340] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: yak
+
+Utterance 1199:
+  Time: [36:29.260 - 36:29.480] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: aw
+
+Utterance 1200:
+  Time: [36:30.400 - 36:30.640] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: zam
+
+Utterance 1201:
+  Time: [36:31.620 - 36:31.900] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: zay
+
+Utterance 1202:
+  Time: [36:32.760 - 36:33.080] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: zake
+
+Utterance 1203:
+  Time: [36:37.940 - 36:39.300] (1.36s)
+  Confidence: 1.000
+  Words: 2
+  Text: aking ako
+
+Utterance 1204:
+  Time: [36:40.380 - 36:40.540] (0.16s)
+  Confidence: 1.000
+  Words: 1
+  Text: ako
+
+Utterance 1205:
+  Time: [36:41.660 - 36:41.840] (0.18s)
+  Confidence: 1.000
+  Words: 1
+  Text: ama
+
+Utterance 1206:
+  Time: [36:42.940 - 36:46.480] (3.54s)
+  Confidence: 1.000
+  Words: 4
+  Text: amin amin ang ano
+
+Utterance 1207:
+  Time: [36:47.840 - 36:48.960] (1.12s)
+  Confidence: 1.000
+  Words: 2
+  Text: m at
+
+Utterance 1208:
+  Time: [36:50.500 - 36:50.660] (0.16s)
+  Confidence: 1.000
+  Words: 1
+  Text: ay
+
+Utterance 1209:
+  Time: [36:51.640 - 36:51.720] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ba
+
+Utterance 1210:
+  Time: [36:52.620 - 36:53.060] (0.44s)
+  Confidence: 1.000
+  Words: 1
+  Text: bahala
+
+Utterance 1211:
+  Time: [36:53.980 - 36:54.220] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: baka
+
+Utterance 1212:
+  Time: [36:55.160 - 36:55.400] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: baki
+
+Utterance 1213:
+  Time: [36:56.360 - 36:56.680] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: bata
+
+Utterance 1214:
+  Time: [36:57.500 - 36:59.980] (2.48s)
+  Confidence: 1.000
+  Words: 3
+  Text: bisa biyaya tat
+
+Utterance 1215:
+  Time: [37:00.000 - 37:01.300] (1.30s)
+  Confidence: 1.000
+  Words: 2
+  Text: sya dahil
+
+Utterance 1216:
+  Time: [37:02.220 - 37:02.480] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: daw
+
+Utterance 1217:
+  Time: [37:03.380 - 37:03.400] (0.02s)
+  Confidence: 1.000
+  Words: 1
+  Text: d
+
+Utterance 1218:
+  Time: [37:04.480 - 37:04.720] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: din
+
+Utterance 1219:
+  Time: [37:05.740 - 37:06.000] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: don
+
+Utterance 1220:
+  Time: [37:06.880 - 37:07.460] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: dumarami
+
+Utterance 1221:
+  Time: [37:08.280 - 37:08.760] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: dumating
+
+Utterance 1222:
+  Time: [37:09.900 - 37:10.620] (0.72s)
+  Confidence: 1.000
+  Words: 1
+  Text: elementariya
+
+Utterance 1223:
+  Time: [37:11.580 - 37:12.040] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: frants
+
+Utterance 1224:
+  Time: [37:13.180 - 37:13.600] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: gulang
+
+Utterance 1225:
+  Time: [37:14.800 - 37:15.160] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: gulay
+
+Utterance 1226:
+  Time: [37:16.240 - 37:16.660] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: gusali
+
+Utterance 1227:
+  Time: [37:17.580 - 37:17.980] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: halaga
+
+Utterance 1228:
+  Time: [37:19.140 - 37:19.680] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: hanggang
+
+Utterance 1229:
+  Time: [37:20.800 - 37:22.540] (1.74s)
+  Confidence: 1.000
+  Words: 2
+  Text: hayog hiningan
+
+Utterance 1230:
+  Time: [37:23.640 - 37:23.880] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: hoy
+
+Utterance 1231:
+  Time: [37:24.740 - 37:25.320] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: humihingi
+
+Utterance 1232:
+  Time: [37:26.240 - 37:26.460] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: iba
+
+Utterance 1233:
+  Time: [37:27.640 - 37:28.040] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: iisa
+
+Utterance 1234:
+  Time: [37:29.080 - 37:29.320] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: ina
+
+Utterance 1235:
+  Time: [37:30.320 - 37:31.140] (0.82s)
+  Confidence: 1.000
+  Words: 1
+  Text: intresado
+
+Utterance 1236:
+  Time: [37:32.060 - 37:32.900] (0.84s)
+  Confidence: 1.000
+  Words: 1
+  Text: ipaghele
+
+Utterance 1237:
+  Time: [37:33.900 - 37:34.320] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: isang
+
+Utterance 1238:
+  Time: [37:35.320 - 37:35.540] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: ito
+
+Utterance 1239:
+  Time: [37:36.640 - 37:36.880] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: ito
+
+Utterance 1240:
+  Time: [37:38.020 - 37:38.400] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: iyon
+
+Utterance 1241:
+  Time: [37:39.480 - 37:39.840] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: iyong
+
+Utterance 1242:
+  Time: [37:41.660 - 37:42.120] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: anis
+
+Utterance 1243:
+  Time: [37:43.100 - 37:43.420] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: joy
+
+Utterance 1244:
+  Time: [37:44.560 - 37:44.640] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ka
+
+Utterance 1245:
+  Time: [37:45.840 - 37:45.920] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: ka
+
+Utterance 1246:
+  Time: [37:47.400 - 37:47.880] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: kailan
+
+Utterance 1247:
+  Time: [37:48.720 - 37:49.380] (0.66s)
+  Confidence: 1.000
+  Words: 1
+  Text: kailangan
+
+Utterance 1248:
+  Time: [37:50.240 - 37:50.440] (0.20s)
+  Confidence: 1.000
+  Words: 1
+  Text: kami
+
+Utterance 1249:
+  Time: [37:51.360 - 37:51.740] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: kanila
+
+Utterance 1250:
+  Time: [37:52.700 - 37:54.520] (1.82s)
+  Confidence: 1.000
+  Words: 2
+  Text: kantagan kanya
+
+Utterance 1251:
+  Time: [37:55.460 - 37:56.220] (0.76s)
+  Confidence: 1.000
+  Words: 1
+  Text: kapatawaran
+
+Utterance 1252:
+  Time: [37:57.120 - 37:57.620] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: kapatid
+
+Utterance 1253:
+  Time: [37:58.900 - 37:59.240] (0.34s)
+  Confidence: 1.000
+  Words: 1
+  Text: kaya
+
+Utterance 1254:
+  Time: [38:00.020 - 38:00.540] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: pumusta
+
+Utterance 1255:
+  Time: [38:01.700 - 38:01.960] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: kung
+
+Utterance 1256:
+  Time: [38:02.900 - 38:03.360] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: nalaki
+
+Utterance 1257:
+  Time: [38:04.780 - 38:05.200] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: nalaki
+
+Utterance 1258:
+  Time: [38:06.220 - 38:10.540] (4.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: lamanglugaglupa
+
+Utterance 1259:
+  Time: [38:11.440 - 38:11.980] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: maagang
+
+Utterance 1260:
+  Time: [38:12.840 - 38:14.600] (1.76s)
+  Confidence: 1.000
+  Words: 2
+  Text: maagiw madami
+
+Utterance 1261:
+  Time: [38:15.400 - 38:16.220] (0.82s)
+  Confidence: 1.000
+  Words: 1
+  Text: magbubukid
+
+Utterance 1262:
+  Time: [38:17.120 - 38:17.880] (0.76s)
+  Confidence: 1.000
+  Words: 1
+  Text: magihintay
+
+Utterance 1263:
+  Time: [38:18.700 - 38:19.700] (1.00s)
+  Confidence: 1.000
+  Words: 2
+  Text: maghintay hintay
+
+Utterance 1264:
+  Time: [38:20.740 - 38:23.100] (2.36s)
+  Confidence: 1.000
+  Words: 2
+  Text: magkakabisa magkakapatid
+
+Utterance 1265:
+  Time: [38:24.040 - 38:24.580] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: magkita
+
+Utterance 1266:
+  Time: [38:25.440 - 38:26.200] (0.76s)
+  Confidence: 1.000
+  Words: 2
+  Text: mag pipitong
+
+Utterance 1267:
+  Time: [38:27.080 - 38:27.800] (0.72s)
+  Confidence: 1.000
+  Words: 1
+  Text: magusap
+
+Utterance 1268:
+  Time: [38:29.780 - 38:30.480] (0.70s)
+  Confidence: 1.000
+  Words: 2
+  Text: ay papayo
+
+Utterance 1269:
+  Time: [38:31.300 - 38:33.020] (1.72s)
+  Confidence: 1.000
+  Words: 2
+  Text: mais malaking
+
+Utterance 1270:
+  Time: [38:34.000 - 38:34.520] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: malayong
+
+Utterance 1271:
+  Time: [38:35.480 - 38:36.040] (0.56s)
+  Confidence: 1.000
+  Words: 1
+  Text: maliit
+
+Utterance 1272:
+  Time: [38:36.880 - 38:37.260] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: mamaya
+
+Utterance 1273:
+  Time: [38:38.180 - 38:38.920] (0.74s)
+  Confidence: 1.000
+  Words: 1
+  Text: maggagamot
+
+Utterance 1274:
+  Time: [38:40.060 - 38:40.600] (0.54s)
+  Confidence: 1.000
+  Words: 1
+  Text: maramin
+
+Utterance 1275:
+  Time: [38:41.440 - 38:42.020] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: mauntog
+
+Utterance 1276:
+  Time: [38:43.180 - 38:43.400] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: may
+
+Utterance 1277:
+  Time: [38:44.420 - 38:44.800] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: meron
+
+Utterance 1278:
+  Time: [38:45.680 - 38:45.920] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: manga
+
+Utterance 1279:
+  Time: [38:47.040 - 38:47.560] (0.52s)
+  Confidence: 1.000
+  Words: 1
+  Text: minsan
+
+Utterance 1280:
+  Time: [38:48.720 - 38:48.760] (0.04s)
+  Confidence: 1.000
+  Words: 1
+  Text: mo
+
+Utterance 1281:
+  Time: [38:49.920 - 38:50.000] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: na
+
+Utterance 1282:
+  Time: [38:51.180 - 38:51.780] (0.60s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagalaga
+
+Utterance 1283:
+  Time: [38:52.720 - 38:53.580] (0.86s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagaalaga
+
+Utterance 1284:
+  Time: [38:56.080 - 38:56.680] (0.60s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagbigay
+
+Utterance 1285:
+  Time: [38:57.640 - 38:58.560] (0.92s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagbubungkal
+
+Utterance 1286:
+  Time: [38:59.560 - 38:59.980] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagig
+
+Utterance 1287:
+  Time: [39:00.000 - 39:00.180] (0.18s)
+  Confidence: 1.000
+  Words: 1
+  Text: ging
+
+Utterance 1288:
+  Time: [39:01.160 - 39:01.760] (0.60s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagising
+
+Utterance 1289:
+  Time: [39:02.800 - 39:03.620] (0.82s)
+  Confidence: 1.000
+  Words: 1
+  Text: nagkakaingin
+
+Utterance 1290:
+  Time: [39:04.660 - 39:05.500] (0.84s)
+  Confidence: 1.000
+  Words: 1
+  Text: nakakasilaw
+
+Utterance 1291:
+  Time: [39:06.480 - 39:07.180] (0.70s)
+  Confidence: 1.000
+  Words: 1
+  Text: nakausap
+
+Utterance 1292:
+  Time: [39:08.060 - 39:08.460] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: naman
+
+Utterance 1293:
+  Time: [39:09.420 - 39:09.820] (0.40s)
+  Confidence: 1.000
+  Words: 1
+  Text: naman
+
+Utterance 1294:
+  Time: [39:10.900 - 39:11.280] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: namang
+
+Utterance 1295:
+  Time: [39:12.480 - 39:13.160] (0.68s)
+  Confidence: 1.000
+  Words: 1
+  Text: namumunga
+
+Utterance 1296:
+  Time: [39:14.220 - 39:14.460] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: nang
+
+Utterance 1297:
+  Time: [39:15.560 - 39:15.900] (0.34s)
+  Confidence: 1.000
+  Words: 2
+  Text: na sa
+
+Utterance 1298:
+  Time: [39:16.900 - 39:17.680] (0.78s)
+  Confidence: 1.000
+  Words: 1
+  Text: natataniman
+
+Utterance 1299:
+  Time: [39:18.820 - 39:19.240] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: nating
+
+Utterance 1300:
+  Time: [39:20.200 - 39:20.700] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: nanita
+
+Utterance 1301:
+  Time: [39:21.740 - 39:22.000] (0.26s)
+  Confidence: 1.000
+  Words: 1
+  Text: nang
+
+Utterance 1302:
+  Time: [39:23.040 - 39:23.200] (0.16s)
+  Confidence: 1.000
+  Words: 1
+  Text: nga
+
+Utterance 1303:
+  Time: [39:24.320 - 39:25.900] (1.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: niyangnung
+
+Utterance 1304:
+  Time: [39:27.120 - 39:27.280] (0.16s)
+  Confidence: 1.000
+  Words: 1
+  Text: niya
+
+Utterance 1305:
+  Time: [39:28.520 - 39:28.580] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: pa
+
+Utterance 1306:
+  Time: [39:29.720 - 39:30.180] (0.46s)
+  Confidence: 1.000
+  Words: 1
+  Text: paano
+
+Utterance 1307:
+  Time: [39:31.220 - 39:31.580] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: palay
+
+Utterance 1308:
+  Time: [39:32.480 - 39:32.900] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: panglema
+
+Utterance 1309:
+  Time: [39:33.900 - 39:34.140] (0.24s)
+  Confidence: 1.000
+  Words: 1
+  Text: pati
+
+Utterance 1310:
+  Time: [39:35.520 - 39:35.800] (0.28s)
+  Confidence: 1.000
+  Words: 1
+  Text: pero
+
+Utterance 1311:
+  Time: [39:36.700 - 39:38.760] (2.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: pumuntapuno
+
+Utterance 1312:
+  Time: [39:39.900 - 39:39.960] (0.06s)
+  Confidence: 1.000
+  Words: 1
+  Text: sa
+
+Utterance 1313:
+  Time: [39:41.120 - 39:42.860] (1.74s)
+  Confidence: 1.000
+  Words: 2
+  Text: sa bisampong
+
+Utterance 1314:
+  Time: [39:44.120 - 39:46.000] (1.88s)
+  Confidence: 1.000
+  Words: 3
+  Text: sari saring sayaw
+
+Utterance 1315:
+  Time: [39:47.020 - 39:47.100] (0.08s)
+  Confidence: 1.000
+  Words: 1
+  Text: si
+
+Utterance 1316:
+  Time: [39:48.140 - 39:48.560] (0.42s)
+  Confidence: 1.000
+  Words: 1
+  Text: silang
+
+Utterance 1317:
+  Time: [39:49.820 - 39:49.940] (0.12s)
+  Confidence: 1.000
+  Words: 1
+  Text: siya
+
+Utterance 1318:
+  Time: [39:51.160 - 39:53.700] (2.54s)
+  Confidence: 1.000
+  Words: 2
+  Text: siyasobra sobra
+
+Utterance 1319:
+  Time: [39:54.620 - 39:55.120] (0.50s)
+  Confidence: 1.000
+  Words: 1
+  Text: sunduin
+
+Utterance 1320:
+  Time: [39:56.220 - 39:56.600] (0.38s)
+  Confidence: 1.000
+  Words: 1
+  Text: tanim
+
+Utterance 1321:
+  Time: [39:57.720 - 39:58.080] (0.36s)
+  Confidence: 1.000
+  Words: 1
+  Text: taong
+
+Utterance 1322:
+  Time: [39:59.100 - 39:59.680] (0.58s)
+  Confidence: 1.000
+  Words: 1
+  Text: tapusin
+
+Utterance 1323:
+  Time: [40:00.700 - 40:01.020] (0.32s)
+  Confidence: 1.000
+  Words: 1
+  Text: tayo
+
+Utterance 1324:
+  Time: [40:02.120 - 40:02.420] (0.30s)
+  Confidence: 1.000
+  Words: 1
+  Text: tayo
+
+Utterance 1325:
+  Time: [40:03.400 - 40:03.880] (0.48s)
+  Confidence: 1.000
+  Words: 1
+  Text: tumalon
+
+Utterance 1326:
+  Time: [40:04.720 - 40:05.400] (0.68s)
+  Confidence: 1.000
+  Words: 1
+  Text: tumatawag
+
+Utterance 1327:
+  Time: [40:06.260 - 40:06.900] (0.64s)
+  Confidence: 1.000
+  Words: 1
+  Text: penezuwela
+
+Utterance 1328:
+  Time: [40:07.920 - 40:08.140] (0.22s)
+  Confidence: 1.000
+  Words: 1
+  Text: wala
+
